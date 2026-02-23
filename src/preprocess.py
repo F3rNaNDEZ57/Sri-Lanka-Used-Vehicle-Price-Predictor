@@ -1,7 +1,13 @@
+import sys
+from pathlib import Path
+
+# Allow: python src/preprocess.py from project root
+ROOT = Path(__file__).resolve().parents[1]
+sys.path.append(str(ROOT))
+
 import pandas as pd
 import numpy as np
 import re
-from pathlib import Path
 
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import OneHotEncoder, StandardScaler
@@ -9,16 +15,20 @@ from sklearn.compose import ColumnTransformer
 from sklearn.pipeline import Pipeline
 import joblib
 
+from src.paths import (
+    ensure_dirs,
+    VEHICLES_RAW_CSV,
+    VEHICLES_CLEAN_CSV,
+    X_TRAIN_CSV, X_VAL_CSV, X_TEST_CSV,
+    Y_TRAIN_CSV, Y_VAL_CSV, Y_TEST_CSV,
+    PREPROCESSOR_TEMPLATE_JOBLIB,
+)
+
 RANDOM_STATE = 42
 CURRENT_YEAR = 2026
 
-RAW_FILE = "vehicles_raw.csv"
 
-# Artifacts
-PREPROCESSOR_TEMPLATE_FILE = "preprocessor_template.joblib"
-
-
-def load_raw_data(filepath: str = RAW_FILE) -> pd.DataFrame:
+def load_raw_data(filepath: Path = VEHICLES_RAW_CSV) -> pd.DataFrame:
     df = pd.read_csv(filepath)
     print(f"Loaded raw data: {df.shape[0]} rows, {df.shape[1]} columns")
     return df
@@ -78,16 +88,13 @@ def clean_engine_capacity(cap: pd.Series) -> pd.Series:
         try:
             v = float(str(x).replace(",", "").strip())
         except (TypeError, ValueError):
-            # try to salvage digits from messy strings
             digits = re.sub(r"[^\d]", "", str(x))
             v = float(digits) if digits else np.nan
 
-        # Treat zeros/negatives as missing
         if not np.isfinite(v) or v <= 0:
             return np.nan
 
-        # Plausible range for passenger vehicles (assignment scope):
-        # > 10,000 cc is almost certainly a scrape/format error in this dataset.
+        # Plausible range for passenger vehicles
         if v < 500 or v > 8000:
             return np.nan
 
@@ -242,20 +249,14 @@ def build_preprocessor(X: pd.DataFrame) -> ColumnTransformer:
 
     numeric_transformer = Pipeline(
         steps=[
-            (
-                "imputer",
-                __import__("sklearn.impute").impute.SimpleImputer(strategy="median"),
-            ),
+            ("imputer", __import__("sklearn.impute").impute.SimpleImputer(strategy="median")),
             ("scaler", StandardScaler()),
         ]
     )
 
     categorical_transformer = Pipeline(
         steps=[
-            (
-                "imputer",
-                __import__("sklearn.impute").impute.SimpleImputer(strategy="most_frequent"),
-            ),
+            ("imputer", __import__("sklearn.impute").impute.SimpleImputer(strategy="most_frequent")),
             ("onehot", OneHotEncoder(handle_unknown="ignore")),
         ]
     )
@@ -266,20 +267,17 @@ def build_preprocessor(X: pd.DataFrame) -> ColumnTransformer:
             ("cat", categorical_transformer, categorical_features),
         ]
     )
-
     return preprocessor
 
 
-def save_splits(
-    X_train, X_val, X_test, y_train, y_val, y_test, preprocessor: ColumnTransformer
-):
+def save_splits(X_train, X_val, X_test, y_train, y_val, y_test, preprocessor: ColumnTransformer):
     # Save data splits
-    X_train.to_csv("X_train.csv", index=False)
-    X_val.to_csv("X_val.csv", index=False)
-    X_test.to_csv("X_test.csv", index=False)
-    y_train.to_csv("y_train.csv", index=False)
-    y_val.to_csv("y_val.csv", index=False)
-    y_test.to_csv("y_test.csv", index=False)
+    X_train.to_csv(X_TRAIN_CSV, index=False)
+    X_val.to_csv(X_VAL_CSV, index=False)
+    X_test.to_csv(X_TEST_CSV, index=False)
+    y_train.to_csv(Y_TRAIN_CSV, index=False)
+    y_val.to_csv(Y_VAL_CSV, index=False)
+    y_test.to_csv(Y_TEST_CSV, index=False)
 
     # Save full cleaned dataset
     df_clean = pd.concat(
@@ -289,24 +287,27 @@ def save_splits(
         ],
         axis=1,
     )
-    df_clean.to_csv("vehicles_clean.csv", index=False)
+    df_clean.to_csv(VEHICLES_CLEAN_CSV, index=False)
 
     # Save a TEMPLATE preprocessor (unfitted). The fitted version is saved by model.py.
-    joblib.dump(preprocessor, PREPROCESSOR_TEMPLATE_FILE)
-    print(f"Saved splits + preprocessor template to disk ({PREPROCESSOR_TEMPLATE_FILE}).")
+    joblib.dump(preprocessor, PREPROCESSOR_TEMPLATE_JOBLIB)
+
+    print(f"Saved splits → {X_TRAIN_CSV.parent}")
+    print(f"Saved cleaned dataset → {VEHICLES_CLEAN_CSV}")
+    print(f"Saved preprocessor template → {PREPROCESSOR_TEMPLATE_JOBLIB}")
 
 
 def main():
-    raw_path = Path(RAW_FILE)
-    if not raw_path.exists():
-        raise FileNotFoundError(f"{RAW_FILE} not found in current directory.")
+    ensure_dirs()
 
-    df_raw = load_raw_data(RAW_FILE)
+    if not VEHICLES_RAW_CSV.exists():
+        raise FileNotFoundError(f"Raw data not found: {VEHICLES_RAW_CSV}")
+
+    df_raw = load_raw_data(VEHICLES_RAW_CSV)
     df_clean = build_clean_dataset(df_raw)
     X_train, X_val, X_test, y_train, y_val, y_test = split_data(df_clean)
 
     preprocessor = build_preprocessor(X_train)
-
     save_splits(X_train, X_val, X_test, y_train, y_val, y_test, preprocessor)
 
 

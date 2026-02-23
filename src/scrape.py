@@ -1,3 +1,10 @@
+import sys
+from pathlib import Path
+
+# Allow: python src/scrape.py from project root
+ROOT = Path(__file__).resolve().parents[1]
+sys.path.append(str(ROOT))
+
 import requests
 import re
 from bs4 import BeautifulSoup
@@ -7,9 +14,11 @@ import random
 import logging
 from typing import List, Dict
 
+from src.paths import ensure_dirs, VEHICLES_RAW_CSV
+
 BASE_URL = "https://www.patpat.lk/en/sri-lanka/vehicle/car"
 MAX_PAGES = 322
-OUTPUT_FILE = "vehicles_raw.csv"
+OUTPUT_FILE = VEHICLES_RAW_CSV
 
 # Delay settings (ethical scraping)
 MIN_DELAY = 2.0
@@ -332,6 +341,7 @@ def save_to_csv(records: List[Dict[str, str]], filepath: str = OUTPUT_FILE) -> N
 
 
 if __name__ == "__main__":
+    ensure_dirs()
     logger.info("Starting patpat.lk scraping...")
     data = scrape_patpat(MAX_PAGES)
     save_to_csv(data, OUTPUT_FILE)
