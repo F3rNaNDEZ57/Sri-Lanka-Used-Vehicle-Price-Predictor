@@ -1,0 +1,13 @@
+{
+  "ban_regime": {
+    "pre_ban_median": 5550000.0,
+    "ban_period_median": 7950000.0,
+    "post_ban_median": 8390000.0,
+    "ban_premium_pct": 43.24324324324324,
+    "post_ban_change_pct": 5.534591194968552
+  },
+  "brand": {
+    "toyota_mean_abs_shap": 168274.6875,
+    "honda_mean_abs_shap": 617124.9375
+  }
+}

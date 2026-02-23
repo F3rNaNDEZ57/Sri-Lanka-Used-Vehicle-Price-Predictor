@@ -1,0 +1,887 @@
+Brand,Model_Name,Model_Year,Vehicle_Age,Mileage_km,Engine_Capacity,Location_District,Condition,Fuel_Type,Transmission,Body_Type,Colour
+Nissan,Presea,1995.0,31.0,150000.0,1500.0,Katugastota,Used,Petrol,Manual,Hatchback,black
+Suzuki,Alto,2015.0,11.0,110000.0,660.0,Kalutara,Used,Petrol,Manual,Hatchback,silver
+Mercedes Benz,EQB,2024.0,2.0,0.0,,Kotahena (Colombo 13),Brand New,Electric,Automatic,Hatchback,blue
+Honda,N BOX,2015.0,11.0,245000.0,650.0,Raddolugama,Used,Petrol,Automatic,Station wagon,black
+Honda,S660,2016.0,10.0,27000.0,1000.0,Borella (Colombo 08),Used,Petrol,Automatic,Hatchback,white
+Suzuki,Spacia,2017.0,9.0,72700.0,960.0,Gampaha,Used,Petrol,Automatic,Hatchback,yellow
+Daihatsu,Taft,2025.0,1.0,0.0,660.0,Negombo,Brand New,Petrol,Automatic,Liftback,white
+Perodua,Axia,2017.0,9.0,137000.0,998.0,Piliyandala,Used,Petrol,Automatic,Hatchback,white
+Nissan,Tiida,2007.0,19.0,240000.0,1500.0,Ja-Ela,Used,Petrol,Automatic,Sedan,white
+Suzuki,Wagon R,2024.0,2.0,0.0,650.0,Negombo,Brand New,Petrol,Automatic,Hatchback,gray
+Hyundai,Matrix,2001.0,25.0,171132.0,1599.0,Dehiwala,Used,Petrol,Automatic,Hatchback,blue
+Nissan,Dayz,2024.0,2.0,6600.0,660.0,Kottawa,Brand New,Petrol,Automatic,Hatchback,black
+Suzuki,Spacia,2017.0,9.0,95000.0,650.0,Homagama,Used,Petrol,Automatic,Station wagon,white
+Toyota,Passo,2009.0,17.0,131.0,1000.0,Gampaha,Used,Petrol,Automatic,Hatchback,silver
+Toyota,Yaris,2025.0,1.0,0.0,1000.0,Kollupitiya (Colombo 03),Brand New,Petrol,Automatic,Hatchback,white
+Toyota,Vitz,2016.0,10.0,87900.0,1490.0,Maharagama,Used,Hybrid,Automatic,Hatchback,red
+Nissan,Sunny,2004.0,22.0,225000.0,1500.0,Kalubowila,Used,Petrol,Automatic,Convertible,white
+Suzuki,Wagon R,2023.0,3.0,8000.0,650.0,Matara,Brand New,Hybrid,Automatic,Hatchback,black
+Toyota,Vios,2004.0,22.0,224000.0,1490.0,Pepiliyana,Used,Petrol,Automatic,Saloon,black
+Nissan,Sakura,2023.0,3.0,9800.0,,Horana,Brand New,Electric,Automatic,Hatchback,blue
+Suzuki,Wagon R,2014.0,12.0,112000.0,998.0,Anuradhapura,Used,Hybrid,Automatic,Station wagon,white
+Suzuki,Wagon R,2017.0,9.0,110000.0,660.0,Katunayake,Used,Hybrid,Automatic,Liftback,white
+Suzuki,Wagon R,2014.0,12.0,183000.0,660.0,Gampaha,Used,Hybrid,Automatic,Hatchback,black
+Suzuki,Wagon R,2024.0,2.0,3400.0,690.0,Kurunegala,Brand New,Hybrid,Automatic,Hatchback,gray
+Toyota,Axio,2007.0,19.0,180000.0,1496.0,Kirillawala,Used,Petrol,Automatic,Sedan,silver
+Toyota,Aqua,2015.0,11.0,115000.0,1500.0,Malabe,Used,Hybrid,Automatic,Hatchback,black
+Toyota,Aqua,2012.0,14.0,175000.0,1490.0,Mount Lavinia,Reconditioned,Hybrid,Automatic,Hatchback,orange
+Suzuki,Celerio,2015.0,11.0,80000.0,1000.0,Kalmunai,Used,Petrol,Automatic,Hatchback,white
+Mercedes Benz,S Class,2010.0,16.0,98000.0,3000.0,Kirulapone,Used,Petrol,Automatic,Sedan,black
+Toyota,Corolla,2001.0,25.0,219386.0,1500.0,Ratnapura,Used,Petrol,Automatic,Saloon,black
+Suzuki,Maruti,2011.0,15.0,93000.0,800.0,Morontuduwa,Used,Petrol,Manual,Hatchback,black
+Suzuki,Celerio,2016.0,10.0,115000.0,1000.0,Kadawatha,Used,Petrol,Automatic,Hatchback,white
+Toyota,Corolla,2023.0,3.0,3150.0,1500.0,Gampaha,Reconditioned,Petrol,Automatic,Saloon,red
+Tesla,Model 3,2024.0,2.0,0.0,,Kotahena (Colombo 13),Reconditioned,Electric,Automatic,Hatchback,red
+Suzuki,Swift,2000.0,26.0,180000.0,1300.0,Nugegoda,Used,Petrol,Automatic,Hatchback,blue
+Suzuki,Wagon R,2017.0,9.0,150000.0,660.0,Anuradhapura,Used,Petrol,Automatic,Hatchback,white
+Toyota,Vitz,2018.0,8.0,79000.0,1496.0,Gampaha,Used,Hybrid,Automatic,Hatchback,white
+Toyota,Belta,2007.0,19.0,166600.0,1000.0,Homagama,Used,Petrol,Automatic,Saloon,silver
+Toyota,Prius,2014.0,12.0,132000.0,1200.0,Colombo Fort (Colombo 01),Used,Petrol,Automatic,Hatchback,silver
+Suzuki,Estilo,2011.0,15.0,89000.0,800.0,Sainthamaruthu,Used,Petrol,Automatic,Hatchback,brown
+Suzuki,Wagon R,2018.0,8.0,76000.0,650.0,Wellampitiya,Used,Petrol,Automatic,Station wagon,white
+Daihatsu,Taft,2023.0,3.0,0.0,658.0,Horana,Brand New,Petrol,Automatic,Hatchback,blue
+Suzuki,Swift,2004.0,22.0,134000.0,1000.0,Kirulapone,Used,Petrol,Automatic,Hatchback,silver
+Suzuki,Wagon R,2024.0,2.0,0.0,650.0,Narammala,Brand New,Petrol,Automatic,Hatchback,white
+Daihatsu,Mira,2023.0,3.0,6610.0,660.0,Sapugaskanda,Brand New,Petrol,Automatic,Hatchback,black
+Toyota,Corolla,1998.0,28.0,190000.0,1500.0,Dekatana,Used,Petrol,Automatic,Saloon,white
+Suzuki,Alto,2011.0,15.0,153000.0,1000.0,Kurunegala,Used,Petrol,Manual,Convertible,silver
+Suzuki,Wagon R,2018.0,8.0,75000.0,650.0,Horana,Used,Hybrid,Automatic,,white
+Toyota,Aqua,2015.0,11.0,105000.0,1000.0,Nugegoda,Used,Petrol,Automatic,Hatchback,black
+Daihatsu,Taft,2025.0,1.0,0.0,650.0,Galnewa,Brand New,Petrol,Automatic,Liftback,black
+Suzuki,Alto,2011.0,15.0,130000.0,990.0,Wellawatta (Colombo 06),Used,Petrol,Manual,Hatchback,other
+Nissan,NV100,2016.0,10.0,89000.0,800.0,Dematagoda (Colombo 09),Used,Petrol,Automatic,Convertible,silver
+Suzuki,Alto,2015.0,11.0,0.0,800.0,Beliatta,Used,Petrol,Manual,Hatchback,white
+Suzuki,Maruti,2008.0,18.0,0.0,650.0,Maho,Used,Petrol,Manual,,blue
+Daihatsu,Charade,1987.0,39.0,0.0,990.0,Pilimatalawa,Used,Petrol,Manual,,red
+Micro,Panda,2011.0,15.0,118000.0,1300.0,Godagama,Used,Petrol,Manual,Hatchback,white
+Suzuki,Spacia,2024.0,2.0,0.0,650.0,Kohuwala,Brand New,Petrol,Automatic,Hatchback,black
+Toyota,Vios,2005.0,21.0,180000.0,1496.0,Mawathagama,Used,Petrol,Automatic,Sedan,silver
+Suzuki,Wagon R,2018.0,8.0,69000.0,660.0,Maharagama,Used,Petrol,Automatic,Liftback,white
+Suzuki,Maruti,2000.0,26.0,60000.0,800.0,Malabe,Used,Petrol,Manual,Hatchback,black
+Toyota,Premio,2012.0,14.0,124000.0,1500.0,Kadawatha,Reconditioned,Petrol,Automatic,Liftback,white
+Nissan,Sunny,1994.0,32.0,0.0,1500.0,Chilaw,Used,Petrol,Manual,Hatchback,white
+Toyota,Vitz,2011.0,15.0,115000.0,990.0,Kiribathkumbura,Used,Petrol,Automatic,Hatchback,black
+Renault,KWID,2016.0,10.0,53842.0,1000.0,Panadura,Used,Petrol,Manual,Hatchback,white
+Honda,Civic,2018.0,8.0,95000.0,1000.0,Alutgama,Used,Petrol,Automatic,Hatchback,gray
+Toyota,Aqua,2012.0,14.0,22000.0,1490.0,Panadura,Used,Hybrid,Automatic,Hatchback,black
+Toyota,Vitz,2007.0,19.0,107000.0,1300.0,Kesbewa,Used,Petrol,Automatic,Hatchback,silver
+Mitsubishi,i-MiEV,2013.0,13.0,130000.0,,Moratuwa,Used,Electric,Automatic,Hatchback,silver
+Toyota,Aqua,2013.0,13.0,140000.0,1500.0,Dehiwala,Used,Hybrid,Automatic,Liftback,blue
+Suzuki,Wagon R,2024.0,2.0,7600.0,660.0,Ampara,Brand New,Hybrid,Automatic,Hatchback,silver
+Suzuki,Wagon R,2014.0,12.0,0.0,900.0,Rambukkana,Used,Petrol,Automatic,Hatchback,red
+Honda,Civic,2019.0,7.0,67000.0,1000.0,Dehiwala,Used,Petrol,Automatic,Sedan,red
+Suzuki,Alto,2015.0,11.0,131500.0,800.0,Wattala,Used,Petrol,Manual,Hatchback,gray
+Nissan,Roox,2023.0,3.0,6600.0,660.0,Kottawa,Brand New,Petrol,Automatic,Hatchback,white
+Toyota,Corolla,2000.0,26.0,97000.0,1295.0,Nuwara Eliya,Used,Petrol,Automatic,Sedan,silver
+Toyota,Aqua,2013.0,13.0,88000.0,1500.0,Kegalle,Used,Petrol,Automatic,Hatchback,blue
+Toyota,Axio,2015.0,11.0,137000.0,1500.0,Kurunegala,Used,Petrol,Automatic,Convertible,white
+Suzuki,Celerio,2015.0,11.0,97000.0,1000.0,Nawala,Used,Petrol,Automatic,Hatchback,black
+Nissan,March,2000.0,26.0,160000.0,1000.0,Ratmalana,Used,Petrol,Automatic,Station wagon,blue
+Toyota,Pixis,2015.0,11.0,0.0,650.0,Adampan,Used,Petrol,Automatic,,white
+Suzuki,Alto,2015.0,11.0,98000.0,800.0,Kalmunai,Used,Petrol,Manual,Liftback,silver
+Toyota,Vitz,2013.0,13.0,112450.0,1000.0,Kandy,Used,Petrol,Automatic,Hatchback,white
+Toyota,Corolla,1996.0,30.0,0.0,1200.0,Pilimatalawa,Used,Diesel,Automatic,,white
+Toyota,Vitz,2015.0,11.0,116000.0,1500.0,Ja-Ela,Used,Petrol,Automatic,,black
+Mitsubishi,eK,2023.0,3.0,8000.0,650.0,Veyangoda,Reconditioned,Petrol,Automatic,Station wagon,black
+Suzuki,Baleno,2019.0,7.0,35000.0,998.0,Biyagama,Used,Petrol,Automatic,Hatchback,white
+Toyota,Vitz,2017.0,9.0,130000.0,990.0,Kadawatha,Used,Petrol,Automatic,Hatchback,black
+Toyota,Corolla,2002.0,24.0,175000.0,1500.0,Wattala,Used,Petrol,Automatic,Saloon,silver
+Toyota,Prius,2012.0,14.0,200000.0,1800.0,Nugegoda,Used,Hybrid,Automatic,Saloon,silver
+Suzuki,Maruti,2010.0,16.0,0.0,800.0,Pilimatalawa,Used,Petrol,Manual,,blue
+Toyota,Passo,2015.0,11.0,145000.0,1000.0,Dehiwala,Used,Petrol,Automatic,Saloon,white
+Daihatsu,Taft,2023.0,3.0,31000.0,660.0,Horana,Brand New,Petrol,Automatic,Hatchback,black
+Daihatsu,Boon,2017.0,9.0,52000.0,1000.0,Wellampitiya,Used,Petrol,Automatic,Sedan,red
+Suzuki,Wagon R,2019.0,7.0,60000.0,650.0,Ratnapura,Used,Hybrid,Automatic,Hatchback,white
+Toyota,Aqua,2015.0,11.0,106000.0,1000.0,Anuradhapura,Used,Petrol,Automatic,Liftback,white
+Maruti,Estilo,2011.0,15.0,64384.0,1000.0,Watinapaha,Used,Petrol,Manual,Hatchback,silver
+Toyota,Vitz,2007.0,19.0,149000.0,1000.0,Waikkal,Used,Petrol,Automatic,Hatchback,silver
+Toyota,Aqua,2014.0,12.0,158000.0,1500.0,Dehiwala,Used,Hybrid,Automatic,Liftback,black
+Suzuki,Wagon R,2014.0,12.0,100000.0,650.0,Alutgama,Used,Hybrid,Automatic,Hatchback,silver
+Chery,QQ,2007.0,19.0,65900.0,800.0,Padukka,Used,Petrol,Manual,Hatchback,green
+Perodua,Kelisa,2007.0,19.0,75000.0,1000.0,Kelaniya,Used,Petrol,Other,Hatchback,silver
+Suzuki,Spacia,2025.0,1.0,0.0,660.0,Kurunegala,Brand New,Hybrid,Automatic,Liftback,white
+Daihatsu,Mira,2024.0,2.0,0.0,660.0,Ratmalana,Brand New,Petrol,Automatic,,blue
+Suzuki,Wagon R,2017.0,9.0,81000.0,,Narahenpita (Colombo 05),Used,Petrol,Automatic,,maroon
+Nissan,Sunny,2001.0,25.0,184177.0,1498.0,Kurunegala,Brand New,Petrol,Manual,Saloon,silver
+Toyota,Allion,2016.0,10.0,108000.0,1500.0,Delgoda,Used,Petrol,Automatic,,red
+Lexus,LX,2014.0,12.0,131500.0,1500.0,Panadura,Used,Petrol,Manual,Sedan,white
+Mitsubishi,Lancer,2003.0,23.0,115000.0,,Anuradhapura,Used,Petrol,Manual,Liftback,black
+Toyota,Corolla,1997.0,29.0,250000.0,1500.0,Matale,Used,Petrol,Automatic,Saloon,white
+Toyota,Axio,2015.0,11.0,52000.0,1490.0,Gampaha,Used,Petrol,Automatic,Sedan,other
+BMW,M Series,2017.0,9.0,90000.0,2000.0,Katugastota,Used,Petrol,Automatic,Saloon,black
+Honda,Insight,2009.0,17.0,104045.0,1333.0,Embilipitiya,Reconditioned,Hybrid,Automatic,Saloon,blue
+Toyota,Vitz,2016.0,10.0,0.0,990.0,Welpalla,Used,Petrol,Automatic,Hatchback,black
+Suzuki,Alto,2015.0,11.0,103000.0,800.0,Homagama,Used,Petrol,Manual,Liftback,black
+Suzuki,Wagon R,2017.0,9.0,73000.0,650.0,Anuradhapura,Used,Petrol,Automatic,Hatchback,black
+Suzuki,Alto,2015.0,11.0,112877.0,800.0,Dehiwala,Used,Petrol,Manual,Liftback,brown
+Suzuki,Wagon R,2017.0,9.0,119000.0,650.0,Malabe,Used,Hybrid,Automatic,Hatchback,brown
+Suzuki,Swift,2017.0,9.0,76000.0,1000.0,Kalutara,Used,Petrol,Automatic,Hatchback,silver
+Toyota,Aqua,2013.0,13.0,152000.0,1500.0,Nittambuwa,Used,Hybrid,Automatic,Hatchback,white
+Suzuki,Alto,2014.0,12.0,58000.0,650.0,Batticaloa,Used,Petrol,Manual,Hatchback,gray
+Suzuki,Wagon R,2017.0,9.0,169000.0,650.0,Gampaha,Reconditioned,Petrol,Automatic,Hatchback,black
+Suzuki,Alto,2015.0,11.0,110.0,800.0,Hanwella,Used,Petrol,Manual,Hatchback,red
+Nissan,March,1995.0,31.0,170000.0,1000.0,Horana,Used,Petrol,Manual,Hatchback,navy
+Daihatsu,Mira,2023.0,3.0,6600.0,660.0,Kottawa,Brand New,Petrol,Automatic,Hatchback,blue
+Toyota,Allion,2013.0,13.0,180000.0,1200.0,Kegalle,Used,Hybrid,Automatic,Hatchback,maroon
+Suzuki,Wagon R,2024.0,2.0,2000.0,650.0,Yakkala,Reconditioned,Petrol,Automatic,Hatchback,white
+Toyota,Corona,2000.0,26.0,152000.0,2000.0,Ragama,Used,Diesel,Automatic,Saloon,silver
+Toyota,Premio,2018.0,8.0,86000.0,1500.0,Nattandiya,Used,Petrol,Automatic,Saloon,white
+Toyota,Corolla,2008.0,18.0,185000.0,1600.0,Nugegoda,Used,Petrol,Automatic,Saloon,black
+Toyota,Allion,2010.0,16.0,195000.0,1460.0,Athurugiriya,Used,Petrol,Automatic,Saloon,other
+Suzuki,Alto,2017.0,9.0,200000.0,660.0,Matale,Used,Petrol,Automatic,Hatchback,silver
+Toyota,Vitz,2009.0,17.0,142000.0,1000.0,Negombo,Used,Petrol,Automatic,Hatchback,gray
+Nissan,FB 15,1997.0,29.0,125559.0,1500.0,Avissawella,Used,Petrol,Automatic,Saloon,silver
+Suzuki,Celerio,2016.0,10.0,78000.0,1000.0,Ragama,Used,Petrol,Automatic,Hatchback,red
+Suzuki,Alto,2015.0,11.0,112000.0,800.0,Embilipitiya,Brand New,Petrol,Manual,Hatchback,silver
+Suzuki,Wagon R,2014.0,12.0,100000.0,650.0,Wattala,Used,Petrol,Automatic,Sedan,white
+Honda,Fit,2012.0,14.0,159000.0,1330.0,Wattala,Used,Petrol,Automatic,Hatchback,silver
+Suzuki,Alto,2015.0,11.0,46000.0,680.0,Badulla,Reconditioned,Petrol,Manual,Hatchback,gray
+Toyota,Axio,2018.0,8.0,106000.0,1500.0,Padukka,Used,Hybrid,Automatic,Sedan,white
+Mercedes Benz,E Class,2015.0,11.0,70000.0,2000.0,Kohuwala,Used,Diesel,Automatic,Sedan,black
+BMW,5 Series,2010.0,16.0,160000.0,2497.0,Pita Kotte,Used,Petrol,Automatic,,black
+Suzuki,Wagon R,2018.0,8.0,92000.0,998.0,Baddegama,Used,Petrol,Automatic,Hatchback,white
+Suzuki,Wagon R,2018.0,8.0,82000.0,650.0,Samanthurai,Used,Petrol,Automatic,Station wagon,white
+Suzuki,Wagon R,2018.0,8.0,85000.0,650.0,Kalmunai,Used,Petrol,Automatic,Sedan,white
+Suzuki,Celerio,2014.0,12.0,87000.0,1000.0,Dehiwala,Used,Petrol,Tiptronic,Hatchback,yellow
+Toyota,Premio,2016.0,10.0,139000.0,1500.0,Nugegoda,Used,Petrol,Automatic,Liftback,white
+Toyota,Yaris,2023.0,3.0,76500.0,1000.0,Kotte,Reconditioned,Petrol,Automatic,Hatchback,white
+Toyota,Vitz,2016.0,10.0,0.0,1000.0,Ratnapura,Used,Petrol,Automatic,,black
+Toyota,Allion,2010.0,16.0,155000.0,1300.0,Kollupitiya (Colombo 03),Used,Petrol,Manual,Hatchback,white
+Mazda,Flair,2025.0,1.0,10000.0,650.0,Panadura,Reconditioned,Hybrid,Automatic,Hatchback,white
+Micro,Panda,2014.0,12.0,0.0,1000.0,Panadura,Used,Petrol,Manual,Hatchback,blue
+Nissan,Sunny,2001.0,25.0,1500.0,1490.0,Thalapathpitiya,Reconditioned,Petrol,Manual,,white
+Tata,Indica,2015.0,11.0,120000.0,1200.0,Matale,Used,Petrol,Manual,Hatchback,maroon
+Suzuki,Spacia,2018.0,8.0,130000.0,660.0,Pannipitiya,Used,Hybrid,Automatic,Sedan,blue
+Nissan,NV100,2016.0,10.0,84000.0,800.0,Dematagoda (Colombo 09),Used,Petrol,Automatic,Convertible,white
+Nissan,March,2002.0,24.0,100000.0,1240.0,Badulla,Used,Petrol,Automatic,Hatchback,other
+Nissan,Dayz,2024.0,2.0,2800.0,660.0,Colombo Fort (Colombo 01),Reconditioned,Petrol,Automatic,Hatchback,silver
+Suzuki,Alto,2015.0,11.0,88487.0,800.0,Wattala,Used,Petrol,Manual,Hatchback,black
+Suzuki,Spacia,2015.0,11.0,138000.0,960.0,Monaragala,Used,Petrol,Automatic,Hatchback,pink
+Toyota,Vitz,2005.0,21.0,0.0,1000.0,Gampola,Used,Hybrid,Automatic,Hatchback,blue
+Suzuki,Wagon R,2024.0,2.0,0.0,650.0,Borella (Colombo 08),Brand New,Petrol,Automatic,Hatchback,blue
+Suzuki,Swift,2004.0,22.0,110000.0,1320.0,Galle,Used,Petrol,Automatic,Liftback,blue
+Mitsubishi,Minica,2008.0,18.0,140000.0,998.0,Badalgama,Used,Petrol,Automatic,Hatchback,black
+Toyota,Axio,2014.0,12.0,140000.0,1490.0,Beruwala,Used,Petrol,Automatic,Saloon,white
+Honda,Civic,2005.0,21.0,172000.0,1600.0,Colombo Fort (Colombo 01),Used,Petrol,Manual,Sedan,black
+Suzuki,Maruti,2010.0,16.0,0.0,800.0,Galkulama,Used,Petrol,Manual,Liftback,black
+Tata,Indigo,2015.0,11.0,119000.0,1200.0,Kirillawala,Used,Petrol,Manual,Hatchback,silver
+Toyota,Yaris,2025.0,1.0,10000.0,1000.0,Wattala,Brand New,Petrol,Automatic,Hatchback,white
+Toyota,Vitz,2017.0,9.0,123000.0,1000.0,Nugegoda,Used,Petrol,Automatic,Hatchback,blue
+Nissan,N 16,2000.0,26.0,145000.0,1300.0,Ganemulla,Used,Petrol,Manual,Saloon,maroon
+Suzuki,SX,2018.0,8.0,81000.0,1200.0,Piliyandala,Used,Petrol,Automatic,Hatchback,black
+Suzuki,Celerio,2016.0,10.0,96000.0,1000.0,Kadawatha,Used,Petrol,Automatic,Hatchback,white
+Nissan,Tiida,2008.0,18.0,167000.0,1500.0,Nawala,Used,Petrol,Automatic,Hatchback,black
+Suzuki,Wagon R,2015.0,11.0,0.0,900.0,Dedunupitiya,Used,Petrol,Automatic,Liftback,other
+BMW,740Le,2017.0,9.0,18000.0,2000.0,Kohuwala,Used,Petrol,Automatic,Saloon,white
+Suzuki,Hustler,2024.0,2.0,3000.0,658.0,Mawathagama,Reconditioned,Petrol,Automatic,Sports,white
+Suzuki,Wagon R,2018.0,8.0,0.0,900.0,Keppetipola,Used,Petrol,Automatic,Liftback,white
+Toyota,DX Wagon,1990.0,36.0,100000.0,1300.0,Badulla,Used,Petrol,Manual,Station wagon,green
+Nissan,Sunny,1987.0,39.0,245000.0,1300.0,Kottawa,Used,Petrol,Manual,Sedan,gray
+Toyota,Axio,2007.0,19.0,160000.0,1500.0,Matale,Used,Petrol,Automatic,Sedan,silver
+Honda,Civic,2003.0,23.0,212647.0,1490.0,Colombo Fort (Colombo 01),Used,Petrol,Automatic,Hatchback,silver
+Hyundai,Eon,2016.0,10.0,24500.0,814.0,Batticaloa,Used,Petrol,Manual,Hatchback,white
+Toyota,Axio,2017.0,9.0,121000.0,1500.0,Kohuwala,Used,Hybrid,Automatic,Saloon,other
+Mercedes Benz,C200,2008.0,18.0,163000.0,1800.0,Moratuwa,Used,Petrol,Automatic,Saloon,white
+Nissan,N 16,2003.0,23.0,173000.0,1300.0,Badulla,Used,Petrol,Manual,Saloon,silver
+Suzuki,Baleno,2016.0,10.0,123000.0,1200.0,Godagama,Used,Petrol,Automatic,Hatchback,black
+Toyota,Premio,2010.0,16.0,118000.0,1500.0,Kandy,Used,Petrol,Automatic,Hatchback,gray
+Micro,Panda,2013.0,13.0,0.0,1000.0,Horana,Used,Petrol,Manual,Hatchback,black
+Subaru,Pleo,2023.0,3.0,7500.0,658.0,Narammala,Reconditioned,Petrol,Automatic,Hatchback,red
+Nissan,Dayz,2024.0,2.0,2500.0,659.0,Rajagiriya,Brand New,Petrol,Automatic,Hatchback,blue
+Suzuki,Alto,2015.0,11.0,75000.0,1000.0,Battaramulla,Used,Petrol,Other,Hatchback,black
+Toyota,Belta,2007.0,19.0,150000.0,990.0,Wellampitiya,Used,Petrol,Automatic,Liftback,white
+Suzuki,Estilo,2012.0,14.0,98000.0,1000.0,Ragama,Used,Petrol,Manual,Hatchback,gold
+Micro,Panda,2012.0,14.0,0.0,1300.0,Panadura,Used,Petrol,Manual,Hatchback,orange
+Suzuki,Alto,2015.0,11.0,117000.0,800.0,Batticaloa,Used,Petrol,Manual,Hatchback,gray
+Mercedes Benz,C200,2025.0,1.0,0.0,1500.0,Maradana (Colombo 10),Brand New,Hybrid,Automatic,Saloon,black
+Suzuki,Maruti,2007.0,19.0,0.0,,Kurunegala,Used,Petrol,Manual,Hatchback,maroon
+Mazda,Demio,2009.0,17.0,180000.0,1300.0,Pelmadulla,Used,Petrol,Automatic,Hatchback,white
+Mitsubishi,Lancer,,,150000.0,1496.0,Pilimatalawa,Used,Petrol,Manual,Sedan,blue
+Daihatsu,Mira,2023.0,3.0,1234.0,660.0,Kottawa,Brand New,Petrol,Automatic,Liftback,blue
+Suzuki,Swift,2004.0,22.0,122000.0,760.0,Matara,Used,Petrol,Manual,Hatchback,black
+Audi,Q2,2019.0,7.0,146000.0,999.0,Athurugiriya,Used,Petrol,Automatic,Hatchback,gray
+Honda,Fit,2011.0,15.0,110000.0,1339.0,Moratuwa,Used,Petrol,Automatic,Hatchback,silver
+Toyota,Vitz,2017.0,9.0,55000.0,1500.0,Kandy,Used,Petrol,Automatic,,gray
+Perodua,Bezza,2018.0,8.0,63000.0,1000.0,Narahenpita (Colombo 05),Used,Petrol,Manual,Hatchback,white
+Suzuki,Wagon R,2025.0,1.0,1500.0,690.0,Kurunegala,Brand New,Hybrid,Automatic,Hatchback,white
+Suzuki,Wagon R,2025.0,1.0,0.0,650.0,Attanagalla,Brand New,Hybrid,Automatic,Hatchback,white
+Suzuki,A Star,2012.0,14.0,119678.0,1000.0,Katunayake,Used,Petrol,Manual,Hatchback,brown
+Toyota,Passo,2009.0,17.0,131275.0,1000.0,Gampaha,Used,Petrol,Automatic,Hatchback,silver
+Suzuki,Wagon R,2018.0,8.0,72000.0,650.0,Pannala,Used,Petrol,Automatic,Convertible,white
+Honda,Accord,1994.0,32.0,0.0,2000.0,Agarapathana,Used,Petrol,Manual,Saloon,blue
+Honda,Grace,2017.0,9.0,120000.0,1600.0,Matara,Reconditioned,Petrol,Automatic,Liftback,white
+Suzuki,Wagon R,2014.0,12.0,100000.0,650.0,Bandaragama,Used,Hybrid,Automatic,Convertible,black
+Honda,Fit,2014.0,12.0,125000.0,1500.0,Moratuwa,Used,Hybrid,Automatic,Liftback,black
+Suzuki,Wagon R,2018.0,8.0,22.14,650.0,Welimada,Used,Hybrid,Automatic,Hatchback,white
+Honda,Grace,2015.0,11.0,141800.0,1500.0,Bambalapitiya (Colombo 04),Used,Hybrid,Automatic,Hatchback,maroon
+Suzuki,Wagon R,2015.0,11.0,136000.0,650.0,Malabe,Used,Hybrid,Automatic,Hatchback,black
+Honda,Insight,2009.0,17.0,190000.0,1330.0,Trincomalee,Reconditioned,Hybrid,Automatic,Sedan,red
+Toyota,Corolla,1994.0,32.0,182000.0,1970.0,Embilipitiya,Used,Diesel,Manual,Saloon,white
+Suzuki,Wagon R,2015.0,11.0,158000.0,650.0,Batticaloa,Used,Petrol,Automatic,Sedan,red
+Toyota,Yaris,2023.0,3.0,8500.0,1000.0,Kelaniya,Brand New,Petrol,Automatic,Liftback,red
+Daihatsu,Charade,1988.0,38.0,97285.0,990.0,Nittambuwa,Used,Diesel,Manual,Hatchback,green
+Mitsubishi,Lancer,1990.0,36.0,0.0,1300.0,Anuradhapura,Used,Petrol,Manual,Liftback,white
+Nissan,March,2001.0,25.0,0.0,1000.0,Mawanella,Used,Petrol,Manual,Hatchback,silver
+Toyota,Yaris,2008.0,18.0,189000.0,1300.0,Piliyandala,Used,Petrol,Manual,Hatchback,blue
+Nissan,Sunny,1998.0,28.0,100000.0,1300.0,Yakkala,Used,Petrol,Manual,Saloon,white
+Toyota,Vitz,2019.0,7.0,49000.0,1200.0,Colombo Fort (Colombo 01),Used,Petrol,Automatic,Hatchback,white
+Suzuki,Estilo,2010.0,16.0,102000.0,1000.0,Peradeniya,Used,Petrol,Manual,Hatchback,orange
+Toyota,Axio,2014.0,12.0,184000.0,1500.0,Moratuwa,Used,Hybrid,Automatic,Saloon,white
+Nissan,Bluebird,2007.0,19.0,175000.0,1500.0,Panadura,Used,Petrol,Automatic,Saloon,maroon
+Suzuki,Wagon R,2017.0,9.0,180000.0,998.0,Kadawatha,Used,Petrol,Automatic,Hatchback,white
+Mazda,6,2016.0,10.0,69699.0,2488.0,Colombo Fort (Colombo 01),Used,Petrol,Automatic,Sedan,black
+Suzuki,Wagon R,2017.0,9.0,114000.0,,Sooriyawewa Town,Used,Petrol,Automatic,Hatchback,other
+Honda,Shuttle,2012.0,14.0,0.0,1500.0,Ratnapura,Used,Hybrid,Automatic,,blue
+Suzuki,Wagon R,2018.0,8.0,0.0,650.0,Siyambalewa,Used,Petrol,Automatic,Liftback,white
+Toyota,IST,2003.0,23.0,178000.0,1300.0,Ratnapura,Used,Petrol,Automatic,Hatchback,blue
+KIA,Sportage,2012.0,14.0,180000.0,2000.0,Alutgama,Used,Petrol,Automatic,Hatchback,black
+Toyota,Vitz,2019.0,7.0,70000.0,1000.0,Anuradhapura,Used,Hybrid,Automatic,Hatchback,white
+Suzuki,Wagon R,2024.0,2.0,3000.0,650.0,Anuradhapura,Brand New,Petrol,Automatic,Hatchback,black
+Suzuki,Alto,2015.0,11.0,72000.0,800.0,Nugegoda,Used,Petrol,Manual,Hatchback,white
+Suzuki,Alto,2005.0,21.0,100000.0,800.0,Bandaragama,Used,Petrol,Manual,Convertible,silver
+Subaru,XV,2014.0,12.0,149000.0,1995.0,Gampaha,Used,Hybrid,Automatic,Hatchback,black
+Toyota,Premio,2013.0,13.0,48900.0,1500.0,Ragama,Used,Petrol,Automatic,Saloon,white
+Suzuki,Wagon R,2025.0,1.0,3500.0,690.0,Kurunegala,Brand New,Hybrid,Automatic,Hatchback,white
+Nissan,March,1999.0,27.0,225000.0,1000.0,Kadawatha,Used,Petrol,Automatic,Hatchback,silver
+Suzuki,Celerio,2014.0,12.0,1000.0,1000.0,Kadawatha,Used,Petrol,Automatic,Hatchback,red
+Toyota,Vitz,1999.0,27.0,0.0,800.0,Kelinkanda,Used,Petrol,Automatic,Hatchback,gold
+Toyota,Yaris,2007.0,19.0,134000.0,1300.0,Akurana,Used,Petrol,Manual,Hatchback,blue
+Suzuki,Wagon R,2007.0,19.0,1000.0,1500.0,Piliyandala,Used,Petrol,Manual,Hatchback,white
+Suzuki,Alto,2015.0,11.0,135000.0,800.0,Horana,Used,Petrol,Automatic,Hatchback,black
+Nissan,Dayz,2024.0,2.0,6600.0,660.0,Kottawa,Brand New,Petrol,Automatic,Hatchback,black
+Renault,KWID,2016.0,10.0,140000.0,1000.0,Kuliyapitiya,Used,Petrol,Manual,Hatchback,red
+Micro,Panda,2012.0,14.0,150000.0,1300.0,Kolonnawa,Used,Petrol,Manual,Hatchback,red
+Honda,Fit,2014.0,12.0,0.0,990.0,Katugastota,Used,Petrol,Automatic,Hatchback,black
+Toyota,Aqua,2023.0,3.0,20000.0,1500.0,Balapitiya,Reconditioned,Hybrid,Automatic,Hatchback,gray
+Suzuki,Alto,2015.0,11.0,76000.0,800.0,Vavuniya,Used,Petrol,Automatic,Liftback,gray
+Toyota,Vios,2003.0,23.0,0.0,1300.0,Buttala,Used,Petrol,Automatic,Hatchback,other
+Geely,Panda,2012.0,14.0,75000.0,1300.0,Dankotuwa,Used,Petrol,Manual,Liftback,silver
+Toyota,Vios,2005.0,21.0,158000.0,1500.0,Ragama,Used,Petrol,Automatic,Sedan,silver
+Toyota,Corolla,2004.0,22.0,125000.0,1500.0,Kadawatha,Used,Petrol,Automatic,Saloon,white
+Toyota,Corolla,1999.0,27.0,350000.0,1975.0,Malabe,Used,Diesel,Manual,Hatchback,silver
+Nissan,Tiida,2008.0,18.0,181000.0,1500.0,Boralesgamuwa,Used,Petrol,Automatic,Hatchback,silver
+Toyota,Prius,2012.0,14.0,160000.0,,Dehiwala,Used,Hybrid,Automatic,Hatchback,white
+Nissan,Dayz,2025.0,1.0,350.0,658.0,Narammala,Brand New,Hybrid,Automatic,Hatchback,black
+Toyota,Premio,2018.0,8.0,53995.0,1500.0,Alutwewa,Used,Petrol,Automatic,Saloon,white
+Honda,Civic,2017.0,9.0,82285.0,1000.0,Telijjawila,Used,Petrol,Automatic,,silver
+Suzuki,Wagon R,2018.0,8.0,0.0,800.0,Angoda,Used,Petrol,Automatic,Hatchback,black
+Nissan,Bluebird,2004.0,22.0,190000.0,1490.0,Monaragala,Brand New,Petrol,Automatic,Sedan,gold
+Nissan,Sunny,2002.0,24.0,139896.0,1299.0,Kotikawatta,Used,Petrol,Automatic,Saloon,white
+Daihatsu,Mira,2017.0,9.0,75000.0,1300.0,Nittambuwa,Used,Petrol,Other,Hatchback,white
+Suzuki,Alto,2015.0,11.0,0.0,800.0,Horagala,Used,Petrol,Manual,Hatchback,white
+Toyota,Prius,2008.0,18.0,200000.0,1497.0,Galle,Used,Hybrid,Automatic,Hatchback,blue
+Suzuki,Wagon R,2015.0,11.0,145000.0,1000.0,Gampola,Used,Petrol,Automatic,Hatchback,black
+Suzuki,Wagon R,2017.0,9.0,160000.0,650.0,Panadura,Used,Petrol,Automatic,Hatchback,white
+Suzuki,Maruti,2006.0,20.0,84585.0,800.0,Minuwangoda,Used,Petrol,Manual,Hatchback,blue
+Micro,Panda,2015.0,11.0,55000.0,1000.0,Delgoda,Used,Petrol,Manual,Hatchback,white
+KIA,Picanto,2018.0,8.0,59000.0,1000.0,Kalubowila,Used,Petrol,Automatic,Convertible,white
+Daihatsu,Move,2016.0,10.0,78000.0,658.0,Gampaha,Used,Petrol,Automatic,Hatchback,gray
+Suzuki,Alto,2015.0,11.0,125000.0,800.0,Balana,Used,Petrol,Manual,Liftback,gray
+Toyota,Starlet,2000.0,26.0,75000.0,1000.0,Katugastota,Used,Petrol,Manual,Hatchback,black
+Toyota,Corona,1996.0,30.0,0.0,,Anuradhapura,Used,Petrol,Automatic,Liftback,white
+Toyota,Carina,1998.0,28.0,0.0,1500.0,Bingiriya,Used,Petrol,Automatic,Liftback,other
+Toyota,Axio,2017.0,9.0,104500.0,1500.0,Rajagiriya,Used,Petrol,Automatic,Hatchback,white
+Toyota,Axio,2025.0,1.0,0.0,1500.0,Colombo Fort (Colombo 01),Brand New,Hybrid,Automatic,,white
+Toyota,Aqua,2015.0,11.0,124000.0,1500.0,Ratnapura,Used,Hybrid,Automatic,Saloon,purple
+Toyota,Vitz,2008.0,18.0,120000.0,1000.0,Kaleliya,Used,Petrol,Automatic,Hatchback,white
+Hyundai,Accent,2001.0,25.0,210000.0,1500.0,Veyangoda,Used,Petrol,Manual,Sedan,brown
+Nissan,Sunny,1996.0,30.0,215000.0,1970.0,Matugama,Used,Diesel,Automatic,Saloon,silver
+Toyota,Premio,2010.0,16.0,118000.0,1500.0,Kandy,Used,Petrol,Automatic,Hatchback,black
+Toyota,Corona,1998.0,28.0,180000.0,1600.0,Ragama,Used,Petrol,Automatic,Sedan,white
+Toyota,Corolla,2002.0,24.0,123456.0,1500.0,Monaragala,Used,Petrol,Automatic,Saloon,gray
+Suzuki,Alto,2024.0,2.0,1200.0,650.0,Nittambuwa,Reconditioned,Hybrid,Automatic,Hatchback,gray
+Toyota,Corolla,2000.0,26.0,198000.0,1500.0,Athurugiriya,Used,Petrol,Automatic,Sedan,white
+Nissan,Dayz,2017.0,9.0,64000.0,660.0,Ja-Ela,Used,Petrol,Automatic,Station wagon,red
+Mercedes Benz,E Class,2015.0,11.0,120000.0,2143.0,Ratmalana,Used,Diesel,Automatic,Saloon,silver
+Suzuki,Wagon R,2025.0,1.0,0.0,650.0,Kottawa,Brand New,Hybrid,Automatic,Station wagon,blue
+Toyota,Yaris,2025.0,1.0,0.0,1000.0,Wattala,Brand New,Petrol,Automatic,Hatchback,white
+Toyota,Yaris,2023.0,3.0,0.0,1200.0,Kandana,Brand New,Petrol,Automatic,Hatchback,white
+Suzuki,Wagon R,2017.0,9.0,160000.0,790.0,Moratuwa,Used,Petrol,Automatic,Hatchback,white
+Nissan,AD Wagon,2009.0,17.0,150000.0,1499.0,Negombo,Used,Petrol,Automatic,Hatchback,silver
+Suzuki,Swift,2003.0,23.0,125250.0,1300.0,Ganemulla,Used,Petrol,Automatic,Hatchback,silver
+Nissan,Sunny,2002.0,24.0,210000.0,1490.0,Anuradhapura,Used,Petrol,Manual,Sedan,blue
+Nissan,March,2002.0,24.0,149000.0,1000.0,Ragama,Used,Petrol,Automatic,Liftback,red
+Honda,Grace,2015.0,11.0,0.0,1300.0,Mudungoda,Used,Petrol,Automatic,Liftback,black
+Toyota,Corona,1990.0,36.0,180000.0,1970.0,Kahathuduwa,Used,Diesel,Manual,Hatchback,green
+Suzuki,Alto,2003.0,23.0,150000.0,660.0,Panadura,Used,Petrol,Automatic,Liftback,white
+Nissan,Sunny,1994.0,32.0,1200.0,1500.0,Kurunegala,Used,Petrol,Manual,Saloon,gray
+Toyota,Passo,2023.0,3.0,4000.0,1000.0,Katugastota,Reconditioned,Hybrid,Automatic,Hatchback,maroon
+Suzuki,Celerio,2015.0,11.0,73428.0,998.0,Nugegoda,Used,Petrol,Manual,Liftback,beige
+Honda,Civic,2018.0,8.0,84000.0,1000.0,Pannipitiya,Used,Petrol,Automatic,Saloon,black
+Toyota,Starlet,1993.0,33.0,140000.0,1330.0,Homagama,Used,Petrol,Manual,Hatchback,white
+Toyota,Corolla,2008.0,18.0,110000.0,1600.0,Kandy,Used,Petrol,Automatic,Saloon,white
+Daihatsu,Cast,2023.0,3.0,6600.0,660.0,Kottawa,Brand New,Petrol,Automatic,Hatchback,brown
+Suzuki,Wagon R,2018.0,8.0,75000.0,650.0,Boralesgamuwa,Used,Hybrid,Automatic,Liftback,red
+Suzuki,Swift,2006.0,20.0,170000.0,1300.0,Dehiwala,Used,Petrol,Manual,Liftback,other
+Suzuki,Wagon R,2003.0,23.0,129000.0,1100.0,Athurugiriya,Used,Petrol,Manual,Hatchback,silver
+Toyota,Vitz,2010.0,16.0,185000.0,996.0,Kurunegala,Used,Petrol,Automatic,Hatchback,silver
+Toyota,Allion,2016.0,10.0,100000.0,1500.0,Galewela,Used,Hybrid,Automatic,Saloon,white
+Toyota,Carina,1992.0,34.0,23000.0,1500.0,Matugama,Used,Petrol,Manual,Saloon,white
+Suzuki,Alto,2015.0,11.0,92000.0,800.0,Kegalle,Used,Petrol,Manual,Hatchback,gray
+Toyota,Prius,2012.0,14.0,136000.0,1800.0,Maharagama,Used,Hybrid,Automatic,Sedan,silver
+Mitsubishi,eK,2024.0,2.0,0.0,660.0,Kottawa,Brand New,Hybrid,Automatic,Liftback,black
+Toyota,Wigo,2018.0,8.0,90000.0,998.0,Kurunegala,Used,Petrol,Automatic,Hatchback,red
+Micro,Panda,2015.0,11.0,82000.0,1000.0,Wanela,Used,Petrol,Manual,Hatchback,orange
+Suzuki,Estilo,2010.0,16.0,167000.0,1000.0,Kahawatta,Used,Petrol,Manual,Hatchback,red
+Toyota,Vitz,2007.0,19.0,163000.0,1300.0,Badulla,Used,Petrol,Automatic,Station wagon,silver
+Suzuki,Alto,2015.0,11.0,58000.0,650.0,Batticaloa,Used,Petrol,Manual,Hatchback,white
+Honda,N BOX,2023.0,3.0,6600.0,660.0,Kottawa,Reconditioned,Petrol,Automatic,Hatchback,black
+Daihatsu,Cast,2016.0,10.0,0.0,650.0,Kandy,Used,Petrol,Automatic,Hatchback,maroon
+Toyota,Allion,2005.0,21.0,210000.0,1500.0,Kiribathgoda,Used,Petrol,Automatic,Liftback,white
+Daihatsu,Taft,2023.0,3.0,6600.0,660.0,Kottawa,Reconditioned,Petrol,Automatic,Hatchback,purple
+Suzuki,Alto,2015.0,11.0,128000.0,800.0,Colombo Fort (Colombo 01),Used,Petrol,Manual,Liftback,silver
+Toyota,Yaris,2024.0,2.0,0.0,999.0,Kelaniya,Brand New,Petrol,Automatic,Hatchback,white
+Toyota,Aqua,2012.0,14.0,112000.0,1490.0,Nittambuwa,Used,Hybrid,Automatic,Hatchback,orange
+Suzuki,Wagon R,2025.0,1.0,35.0,650.0,Kohuwala,Brand New,Hybrid,Automatic,Hatchback,white
+Toyota,Axio,2014.0,12.0,119700.0,1500.0,Ja-Ela,Used,Petrol,Automatic,Saloon,blue
+Toyota,Aqua,2013.0,13.0,114000.0,1200.0,Kelaniya,Used,Petrol,Automatic,Convertible,black
+Suzuki,Spacia,2024.0,2.0,11000.0,658.0,Kurunegala,Reconditioned,Petrol,Automatic,Hatchback,white
+Toyota,Prius,2011.0,15.0,134500.0,1790.0,Dehiwala,Used,Hybrid,Automatic,Sedan,silver
+Nissan,FB 15,2003.0,23.0,13000.0,2198.0,Dankotuwa,Used,Diesel,Automatic,Sedan,brown
+Micro,Panda Cross,2013.0,13.0,131000.0,1300.0,Gothatuwa,Used,Petrol,Manual,Hatchback,white
+Nissan,Magnite,2025.0,1.0,2800.0,999.0,Anuradhapura,Used,Petrol,Automatic,Hatchback,silver
+Toyota,Passo,2023.0,3.0,6600.0,660.0,Kottawa,Brand New,Petrol,Automatic,Hatchback,other
+Toyota,Vitz,2017.0,9.0,93000.0,1000.0,Boralesgamuwa,Used,Petrol,Automatic,Hatchback,black
+Mercedes Benz,E200,2010.0,16.0,107000.0,1797.0,Moratuwa,Used,Petrol,Automatic,Saloon,maroon
+Honda,Grace,2017.0,9.0,119800.0,1500.0,Moratuwa,Used,Hybrid,Automatic,,white
+Honda,Civic,2017.0,9.0,119000.0,1000.0,Baddegama,Used,Petrol,Automatic,Saloon,white
+Mitsubishi,eK,2023.0,3.0,0.0,660.0,Kottawa,Brand New,Petrol,Automatic,Liftback,silver
+Toyota,Vitz,2009.0,17.0,112630.0,1000.0,Malabe,Used,Petrol,Automatic,Hatchback,green
+Suzuki,Wagon R,2024.0,2.0,13700.0,650.0,Veyangoda,Reconditioned,Petrol,Automatic,Station wagon,black
+Toyota,Pixis,2019.0,7.0,140000.0,1000.0,Anuradhapura,Used,Petrol,Automatic,Hatchback,blue
+Toyota,Vitz,2016.0,10.0,238000.0,1000.0,Adampan,Used,Petrol,Automatic,Hatchback,white
+Subaru,R2,2003.0,23.0,182000.0,650.0,Moratuwa,Used,Petrol,Automatic,Hatchback,gray
+Suzuki,Alto,2016.0,10.0,0.0,800.0,Balangoda,Used,Petrol,Manual,Liftback,white
+Suzuki,Wagon R,2025.0,1.0,0.0,660.0,Kohuwala,Brand New,Petrol,Automatic,Hatchback,white
+Suzuki,Astra,2010.0,16.0,143000.0,800.0,Kalutara,Used,Petrol,Manual,Hatchback,black
+Toyota,Vitz,2017.0,9.0,166000.0,1000.0,Minuwangoda,Used,Petrol,Automatic,Hatchback,silver
+Toyota,Vios,2005.0,21.0,181000.0,1500.0,Kandy,Used,Petrol,Automatic,Sedan,silver
+Suzuki,Wagon R,2014.0,12.0,0.0,658.0,Kandy,Used,Hybrid,Automatic,Hatchback,silver
+Perodua,Axia,2016.0,10.0,106000.0,1000.0,Kadawatha,Used,Petrol,Automatic,Hatchback,blue
+Perodua,Axia,2017.0,9.0,111000.0,1000.0,Kadawatha,Used,Petrol,Automatic,Hatchback,white
+Suzuki,Wagon R,2018.0,8.0,105000.0,650.0,Ratnapura,Reconditioned,Petrol,Automatic,Hatchback,red
+Toyota,Premio,2017.0,9.0,135000.0,1500.0,Kurunegala,Used,Petrol,Automatic,Sedan,red
+Toyota,Roomy,2023.0,3.0,18000.0,1000.0,Negombo,Brand New,Petrol,Automatic,Hatchback,blue
+Daihatsu,Taft,2024.0,2.0,9900.0,660.0,Rajagiriya,Reconditioned,Petrol,Automatic,Hatchback,green
+Suzuki,Celerio,2016.0,10.0,130000.0,1000.0,Ratmalana,Used,Petrol,Automatic,Liftback,red
+BMW,3 Series,2000.0,26.0,139000.0,2000.0,Adampan,Used,Diesel,Manual,Saloon,green
+Tata,Indigo,2015.0,11.0,110008.0,1200.0,Veyangoda,Used,Petrol,Manual,Hatchback,white
+Toyota,Premio,2010.0,16.0,176000.0,1500.0,Akkaraipattu,Used,Petrol,Automatic,Liftback,white
+Toyota,Yaris,2025.0,1.0,0.0,1500.0,Katugastota,Reconditioned,Hybrid,Automatic,Hatchback,black
+Toyota,Yaris,2023.0,3.0,27650.0,1000.0,Negombo,Used,Petrol,Automatic,Hatchback,white
+Toyota,Premio,2018.0,8.0,63000.0,1500.0,Dehiwala,Used,Petrol,Automatic,Liftback,white
+Nissan,Dayz,2024.0,2.0,0.0,660.0,Colombo Fort (Colombo 01),Reconditioned,Petrol,Automatic,Hatchback,black
+Toyota,Vitz,2017.0,9.0,42000.0,1000.0,Marawila,Used,Petrol,Automatic,Hatchback,white
+Toyota,Passo,2008.0,18.0,125000.0,1000.0,Nugegoda,Used,Petrol,Automatic,Hatchback,silver
+Toyota,Avanza,2011.0,15.0,121000.0,1500.0,Maharagama,Used,Petrol,Automatic,Station wagon,silver
+Suzuki,Wagon R,2025.0,1.0,0.0,660.0,Gampaha,Brand New,Petrol,Automatic,Hatchback,white
+Honda,N BOX,2023.0,3.0,1234.0,658.0,Kottawa,Brand New,Petrol,Automatic,Liftback,silver
+Toyota,Vitz,2016.0,10.0,135000.0,990.0,Polonnaruwa,Used,Petrol,Automatic,Liftback,black
+Micro,Panda Cross,2013.0,13.0,0.0,1300.0,Moratuwa,Used,Petrol,Manual,Sports,black
+Honda,Fit,2011.0,15.0,139000.0,1330.0,Kalpitiya,Used,Hybrid,Automatic,Hatchback,green
+Toyota,Corolla,2008.0,18.0,158000.0,1490.0,Yakkala,Used,Petrol,Automatic,Sedan,blue
+Suzuki,Alto,2017.0,9.0,106000.0,,Mirigama,Used,Petrol,Automatic,Hatchback,silver
+Toyota,Aqua,2014.0,12.0,1490.0,1490.0,Adampan,Used,Hybrid,Automatic,Hatchback,red
+Nissan,FB 15,2003.0,23.0,190000.0,1490.0,Giriulla,Used,Petrol,Automatic,Saloon,silver
+Chery,QQ,2010.0,16.0,125000.0,800.0,Batticaloa,Used,Petrol,Manual,Sedan,silver
+Toyota,Aqua,2013.0,13.0,170000.0,1500.0,Kohuwala,Used,Petrol,Automatic,Hatchback,blue
+Suzuki,Alto,2015.0,11.0,68000.0,800.0,Batticaloa,Used,Petrol,Manual,Hatchback,blue
+Daihatsu,Mira,2023.0,3.0,6600.0,660.0,Kottawa,Brand New,Petrol,Automatic,Hatchback,white
+Suzuki,Maruti,2011.0,15.0,0.0,650.0,Akuressa,Used,Petrol,Manual,,maroon
+Suzuki,Wagon R,2017.0,9.0,147000.0,650.0,Kandy,Used,Petrol,Automatic,Hatchback,black
+Perodua,Viva,2013.0,13.0,138000.0,1000.0,Colombo Fort (Colombo 01),Used,Petrol,Automatic,Hatchback,purple
+Toyota,Vitz,2007.0,19.0,188000.0,1000.0,Borella (Colombo 08),Used,Petrol,Automatic,Hatchback,black
+Suzuki,Celerio,2018.0,8.0,48000.0,1000.0,Kadawatha,Used,Petrol,Automatic,Hatchback,blue
+Suzuki,Wagon R,2018.0,8.0,75000.0,650.0,Batticaloa,Used,Hybrid,Automatic,Sedan,white
+Toyota,Prius,2013.0,13.0,187000.0,1800.0,Hungama,Used,Petrol,Automatic,Hatchback,black
+Toyota,Premio,2010.0,16.0,235000.0,1790.0,Borella (Colombo 08),Used,Petrol,Automatic,Saloon,silver
+Datsun,Redi Go,2016.0,10.0,47200.0,800.0,Padukka,Used,Petrol,Manual,Hatchback,green
+Nissan,Roox,2024.0,2.0,0.0,1200.0,Dehiwala,Brand New,Petrol,Automatic,,red
+Daihatsu,Mira,2025.0,1.0,3000.0,658.0,Anuradhapura,Brand New,Petrol,Automatic,,silver
+Daihatsu,Mira,2024.0,2.0,6600.0,660.0,Colombo Fort (Colombo 01),Reconditioned,Petrol,Automatic,Hatchback,silver
+Mitsubishi,eK,2025.0,1.0,0.0,650.0,Colombo Fort (Colombo 01),Brand New,Petrol,Automatic,Hatchback,silver
+Suzuki,Wagon R,2017.0,9.0,120000.0,650.0,Katana,Used,Petrol,Automatic,Hatchback,brown
+Chevrolet,Aveo,2011.0,15.0,150000.0,1200.0,Matale,Used,Petrol,Manual,Saloon,red
+Mitsubishi,Lancer,2003.0,23.0,100000.0,1300.0,Mahiyanganaya,Used,Petrol,Manual,Saloon,black
+Toyota,Passo,2025.0,1.0,0.0,1000.0,Maspotha,Brand New,Petrol,Automatic,Hatchback,other
+Suzuki,Wagon R,2025.0,1.0,6800.0,650.0,Mattakkuliya (Colombo 15),Brand New,Petrol,Automatic,Hatchback,white
+Perodua,Kelisa,2004.0,22.0,134000.0,1000.0,Piliyandala,Used,Petrol,Automatic,Hatchback,silver
+Honda,Fit,2013.0,13.0,118000.0,1500.0,Kandy,Used,Petrol,Automatic,Hatchback,yellow
+Toyota,Axio,2018.0,8.0,125000.0,1500.0,Boralesgamuwa,Used,Hybrid,Automatic,Saloon,red
+Toyota,Prius,2013.0,13.0,0.0,1500.0,Alutgama,Used,Hybrid,Automatic,,white
+Suzuki,Swift,2002.0,24.0,200274.0,1320.0,Kegalle,Used,Petrol,Automatic,Hatchback,red
+Suzuki,Wagon R,2018.0,8.0,94000.0,650.0,Kurunegala,Used,Petrol,Automatic,Hatchback,white
+Toyota,Premio,2005.0,21.0,0.0,1496.0,Kandy,Used,Petrol,Automatic,Sedan,blue
+Toyota,Yaris,2023.0,3.0,6500.0,1000.0,Kelaniya,Brand New,Petrol,Automatic,Liftback,red
+Suzuki,Wagon R,2017.0,9.0,60000.0,650.0,Marawila,Used,Hybrid,Automatic,Hatchback,silver
+Mitsubishi,eK,2023.0,3.0,6600.0,660.0,Kottawa,Brand New,Petrol,Automatic,Hatchback,black
+Honda,N BOX,2023.0,3.0,0.0,658.0,Kandy,Brand New,Petrol,Automatic,Hatchback,white
+Toyota,Aqua,2014.0,12.0,93000.0,1496.0,Ragama,Used,Petrol,Automatic,Hatchback,white
+Suzuki,Wagon R,2017.0,9.0,90930.0,650.0,Moratuwa,Used,Hybrid,Automatic,Hatchback,maroon
+Toyota,Corolla,1996.0,30.0,0.0,1500.0,Horana,Used,Petrol,Manual,,white
+Toyota,Axio,2018.0,8.0,145000.0,1500.0,Nittambuwa,Used,Hybrid,Automatic,,white
+Suzuki,Wagon R,2017.0,9.0,115000.0,660.0,Sooriyawewa Town,Used,Petrol,Automatic,Hatchback,gray
+Toyota,Prius,2012.0,14.0,216000.0,1800.0,Maharagama,Used,Petrol,Automatic,Sedan,silver
+Suzuki,Spacia,2024.0,2.0,0.0,650.0,Panadura,Reconditioned,Hybrid,Automatic,Hatchback,white
+Toyota,Vitz,2019.0,7.0,26000.0,1000.0,Kohuwala,Used,Petrol,Automatic,Hatchback,red
+Micro,Panda,2014.0,12.0,85000.0,1300.0,Kahathuduwa,Used,Petrol,Manual,Hatchback,red
+Toyota,Corolla,1995.0,31.0,295000.0,1500.0,Katugastota,Used,Petrol,Manual,Hatchback,silver
+Suzuki,Alto,2015.0,11.0,180000.0,880.0,Maharagama,Used,Petrol,Manual,Hatchback,silver
+Ford,Laser,1993.0,33.0,265000.0,1300.0,Wattala,Used,Petrol,Manual,Sedan,maroon
+Suzuki,Wagon R,2023.0,3.0,3180.0,660.0,Rambukkana,Brand New,Petrol,Automatic,Hatchback,white
+KIA,Mentor,2000.0,26.0,65000.0,1500.0,Ja-Ela,Used,Petrol,Automatic,Saloon,black
+Toyota,Vitz,2017.0,9.0,46000.0,1000.0,Ja-Ela,Used,Petrol,Automatic,,white
+Nissan,Pulsar,2004.0,22.0,0.0,1500.0,Pannala,Used,Petrol,Manual,Sports,white
+Suzuki,Wagon R,2017.0,9.0,92000.0,650.0,Bambalapitiya (Colombo 04),Used,Petrol,Automatic,Hatchback,gray
+Suzuki,Alto,2015.0,11.0,110000.0,800.0,Minuwangoda,Used,Petrol,Manual,Saloon,gray
+Toyota,Vitz,2018.0,8.0,75000.0,1000.0,Karapitiya,Used,Petrol,Automatic,Hatchback,white
+Daihatsu,Mira,2024.0,2.0,2500.0,690.0,Kurunegala,Brand New,Hybrid,Automatic,Hatchback,red
+Suzuki,Celerio,2015.0,11.0,161000.0,1000.0,Adampan,Used,Petrol,Manual,Hatchback,gray
+Toyota,Allion,2012.0,14.0,182000.0,1490.0,Gampaha,Used,Petrol,Automatic,Saloon,other
+Suzuki,Wagon R,2018.0,8.0,61000.0,650.0,Malabe,Used,Petrol,Automatic,Hatchback,black
+Nissan,Primera,2001.0,25.0,128887.0,1990.0,Galle,Used,Petrol,Automatic,Saloon,gold
+Suzuki,Maruti,2006.0,20.0,45000.0,796.0,Dehiowita,Used,Petrol,Manual,Hatchback,maroon
+Suzuki,A Star,2010.0,16.0,137000.0,998.0,Polgolla,Used,Petrol,Manual,Hatchback,silver
+Toyota,Corolla,1990.0,36.0,294000.0,1390.0,Kandy,Used,Petrol,Manual,Saloon,white
+Mercedes Benz,C200,2025.0,1.0,0.0,1500.0,Kohuwala,Brand New,Petrol,Automatic,Sedan,black
+Daihatsu,Move,2017.0,9.0,90000.0,650.0,Pepiliyana,Used,Petrol,Automatic,Hatchback,yellow
+Daihatsu,Tanto,2017.0,9.0,0.0,1000.0,Murunkan,Used,Petrol,Automatic,Liftback,red
+Suzuki,Spacia,2024.0,2.0,200.0,650.0,Kurunegala,Brand New,Hybrid,Automatic,,black
+BMW,5 Series,1998.0,28.0,174500.0,,Dehiwala,Used,Petrol,Automatic,Hatchback,red
+Toyota,Allion,2007.0,19.0,0.0,1500.0,Kurunegala,Used,Petrol,Manual,Convertible,white
+Honda,Insight,2010.0,16.0,155000.0,1500.0,Alutgama,Used,Petrol,Automatic,Liftback,red
+BMW,3 Series,2016.0,10.0,75000.0,1500.0,Kohuwala,Used,Petrol,Automatic,Saloon,white
+Honda,N BOX,2023.0,3.0,6600.0,660.0,Kottawa,Reconditioned,Petrol,Automatic,Hatchback,black
+Suzuki,Celerio,2015.0,11.0,60000.0,1000.0,Moratuwa,Used,Petrol,Automatic,Hatchback,gray
+Perodua,Kenari,2007.0,19.0,0.0,1000.0,Panadura,Used,Petrol,Automatic,Liftback,black
+Toyota,Premio,2019.0,7.0,113000.0,1500.0,Colombo Fort (Colombo 01),Used,Petrol,Automatic,Liftback,white
+Suzuki,Zen,2004.0,22.0,130000.0,1000.0,Galewela,Used,Petrol,Manual,Hatchback,silver
+Perodua,Axia,2016.0,10.0,71000.0,1000.0,Katuwawala,Used,Petrol,Automatic,Hatchback,white
+Suzuki,Celerio,2015.0,11.0,130000.0,960.0,Colombo Fort (Colombo 01),Used,Petrol,Automatic,Hatchback,yellow
+Toyota,Yaris Ativ,2025.0,1.0,0.0,1500.0,Kohuwala,Brand New,Hybrid,Automatic,Sedan,white
+Nissan,Cefiro,1999.0,27.0,210000.0,1500.0,Gampaha,Used,Petrol,Automatic,Sedan,blue
+Toyota,Prius,2016.0,10.0,117000.0,1800.0,Panadura,Used,Hybrid,Automatic,Liftback,white
+Honda,Fit,2013.0,13.0,134000.0,1500.0,Negombo,Used,Petrol,Automatic,,black
+Suzuki,Wagon R,2014.0,12.0,126000.0,650.0,Kurunegala,Used,Petrol,Automatic,Hatchback,white
+Toyota,Premio,2008.0,18.0,128000.0,1500.0,Kandy,Used,Petrol,Automatic,Saloon,red
+Toyota,Vitz,2007.0,19.0,226000.0,1000.0,Kurunegala,Used,Petrol,Automatic,Hatchback,silver
+Perodua,Viva,2011.0,15.0,165810.0,1000.0,Galle,Used,Petrol,Automatic,Hatchback,silver
+Suzuki,Swift,2008.0,18.0,0.0,1300.0,Kuliyapitiya,Used,Petrol,Manual,Convertible,silver
+Suzuki,Wagon R,2017.0,9.0,60000.0,996.0,Kirillawala,Used,Petrol,Automatic,Hatchback,white
+Nissan,FB 15,2002.0,24.0,154000.0,1500.0,Anuradhapura,Used,Petrol,Automatic,Saloon,silver
+Audi,A3,2023.0,3.0,0.0,1000.0,Kiribathgoda,Brand New,Petrol,Automatic,Sedan,blue
+Suzuki,Celerio,2015.0,11.0,56000.0,1000.0,Kadawatha,Used,Petrol,Automatic,Hatchback,white
+Toyota,Axio,2015.0,11.0,,1500.0,Nittambuwa,Used,Hybrid,Automatic,Saloon,brown
+Suzuki,Wagon R,2018.0,8.0,90000.0,650.0,Katunayake,Reconditioned,Petrol,Automatic,Hatchback,white
+Toyota,Vitz,2010.0,16.0,200000.0,1300.0,Matara,Used,Petrol,Automatic,,silver
+Suzuki,Alto,2016.0,10.0,138000.0,800.0,Beruwala,Used,Petrol,Manual,Hatchback,black
+Suzuki,Wagon R,2025.0,1.0,0.0,650.0,Kelaniya,Brand New,Hybrid,Automatic,Hatchback,white
+Suzuki,Alto,2009.0,17.0,184000.0,796.0,Pasyala,Used,Petrol,Manual,Hatchback,maroon
+Toyota,Carina,2000.0,26.0,220000.0,1500.0,Monaragala,Used,Petrol,Automatic,Sedan,other
+Suzuki,Wagon R,2014.0,12.0,97000.0,658.0,Galle,Used,Petrol,Automatic,Hatchback,black
+Honda,Civic,2004.0,22.0,150000.0,1500.0,Wellawatta (Colombo 06),Used,Petrol,Automatic,,other
+Suzuki,Swift,2011.0,15.0,143000.0,1200.0,Borella (Colombo 08),Used,Petrol,Manual,Saloon,silver
+Suzuki,Alto,2014.0,12.0,125000.0,800.0,Gampaha,Used,Petrol,Manual,Hatchback,gray
+BMW,i Series,2012.0,14.0,139000.0,2000.0,Kelaniya,Used,Petrol,Automatic,Saloon,silver
+Audi,A3,2023.0,3.0,0.0,1984.0,Sapugaskanda,Brand New,Petrol,Automatic,Sedan,black
+Suzuki,Swift,2004.0,22.0,119000.0,1300.0,Gampaha,Used,Petrol,Automatic,Hatchback,black
+Toyota,Aqua,2014.0,12.0,80460.0,1500.0,Pelmadulla,Used,Hybrid,Automatic,Hatchback,yellow
+Toyota,Belta,2010.0,16.0,131000.0,1300.0,Wennappuwa,Used,Petrol,Automatic,Sedan,gray
+Toyota,Vitz,2015.0,11.0,170000.0,1000.0,Kadawatha,Used,Petrol,Automatic,Hatchback,black
+Suzuki,Wagon R,2018.0,8.0,89000.0,660.0,Kegalle,Used,Hybrid,Automatic,Hatchback,purple
+Toyota,Allion,2003.0,23.0,151000.0,1500.0,Panadura,Used,Petrol,Automatic,Saloon,silver
+Suzuki,Swift,2003.0,23.0,241000.0,1300.0,Ampitiya,Used,Petrol,Automatic,Hatchback,white
+Nissan,FB 15,1994.0,32.0,123456.0,1500.0,Anuradhapura,Used,Petrol,Automatic,Sedan,gray
+Honda,Insight,2011.0,15.0,176000.0,1300.0,Galle,Used,Hybrid,Automatic,,silver
+Nissan,Dayz,2023.0,3.0,6900.0,660.0,Kiribathgoda,Used,Petrol,Automatic,Station wagon,white
+Toyota,Vios,2005.0,21.0,0.0,1500.0,Kollupitiya (Colombo 03),Used,Hybrid,Automatic,Sedan,black
+Perodua,Axia,2016.0,10.0,93000.0,1000.0,Kadawatha,Used,Petrol,Automatic,Hatchback,silver
+Nissan,FB 15,2003.0,23.0,,1000.0,Kegalle,Used,Diesel,Manual,Saloon,silver
+Suzuki,Alto,2015.0,11.0,78625.0,800.0,Ekala,Used,Petrol,Manual,Sedan,black
+Toyota,Passo,2008.0,18.0,150000.0,650.0,Pannipitiya,Used,Petrol,Automatic,Liftback,navy
+Mitsubishi,eK,2023.0,3.0,100000.0,660.0,Rajagiriya,Brand New,Hybrid,Automatic,Hatchback,gray
+Mercedes Benz,B Class,2016.0,10.0,120000.0,,Kotte,Used,Electric,Automatic,Hatchback,white
+Micro,Panda Cross,2018.0,8.0,66800.0,1000.0,Battaramulla,Used,Petrol,Tiptronic,Hatchback,white
+Daihatsu,Mira,2017.0,9.0,99300.0,650.0,Negombo,Used,Petrol,Automatic,Hatchback,white
+Toyota,Axio,2017.0,9.0,198000.0,1500.0,Ambalangoda,Used,Hybrid,Automatic,,white
+Suzuki,Maruti,2000.0,26.0,28500.0,800.0,Elpitiya,Used,Petrol,Manual,Hatchback,maroon
+Suzuki,Wagon R,2018.0,8.0,115000.0,650.0,Kollupitiya (Colombo 03),Used,Petrol,Automatic,,black
+Nissan,Dayz,2023.0,3.0,7660.0,660.0,Kurunegala,Reconditioned,Petrol,Automatic,,blue
+Toyota,Premio,2015.0,11.0,145000.0,,Kollupitiya (Colombo 03),Used,Petrol,Automatic,Saloon,maroon
+Suzuki,Alto,2006.0,20.0,123456.0,800.0,Kurunegala,Used,Petrol,Manual,Convertible,white
+Suzuki,Wagon R,2014.0,12.0,205000.0,650.0,Tangalla,Used,Petrol,Automatic,,white
+Suzuki,Alto,2013.0,13.0,0.0,800.0,Horana,Used,Petrol,Manual,Hatchback,other
+Suzuki,Alto,2014.0,12.0,170000.0,800.0,Kandy,Used,Petrol,Manual,Hatchback,black
+Nissan,Roox,2025.0,1.0,200.0,660.0,Negombo,Brand New,Petrol,Automatic,Liftback,white
+Toyota,Allion,2016.0,10.0,160000.0,1490.0,Borella (Colombo 08),Used,Petrol,Automatic,Sedan,black
+Micro,Panda Cross,2013.0,13.0,0.0,1300.0,Panadura,Used,Petrol,Manual,Hatchback,silver
+Honda,Civic,2003.0,23.0,195000.0,1500.0,Kandy,Used,Petrol,Automatic,Sedan,red
+Suzuki,Swift,2000.0,26.0,180000.0,1300.0,Nugegoda,Used,Petrol,Automatic,Hatchback,blue
+Toyota,Prius,2016.0,10.0,138000.0,1800.0,Hokandara,Used,Petrol,Automatic,Hatchback,white
+Toyota,Yaris,2006.0,20.0,190000.0,1300.0,Dehiwala,Used,Petrol,Automatic,Saloon,red
+Austin,Mini,,,200000.0,1000.0,Matale,Used,Petrol,Manual,Hatchback,black
+Nissan,Sunny,2004.0,22.0,280000.0,1300.0,Piliyandala,Used,Petrol,Manual,Saloon,green
+Daihatsu,Mira,2023.0,3.0,5000.0,660.0,Negombo,Reconditioned,Petrol,Automatic,,black
+Toyota,Prius,2010.0,16.0,100000.0,1200.0,Rajagiriya,Used,Petrol,Other,Hatchback,blue
+Suzuki,Wagon R,2024.0,2.0,12400.0,660.0,Kohuwala,Used,Hybrid,Automatic,Station wagon,brown
+Toyota,Sprinter,2000.0,26.0,0.0,1500.0,Athurugiriya,Used,Petrol,Automatic,Saloon,gray
+Toyota,Aqua,2013.0,13.0,124000.0,1459.0,Rajagiriya,Used,Hybrid,Automatic,Hatchback,white
+Nissan,Roox,2016.0,10.0,0.0,659.0,Kandy,Used,Petrol,Automatic,Hatchback,white
+Toyota,Vitz,2013.0,13.0,141000.0,960.0,Homagama,Used,Petrol,Automatic,Hatchback,white
+Honda,City,2001.0,25.0,22000.0,1500.0,Anuradhapura,Used,Petrol,Manual,Saloon,gray
+Tata,Indica,2015.0,11.0,112000.0,1200.0,Batticaloa,Used,Petrol,Manual,Hatchback,maroon
+Hyundai,Santro,2004.0,22.0,197000.0,760.0,Kadawatha,Used,Petrol,Manual,Hatchback,gray
+Honda,N WGN,2017.0,9.0,30250.0,650.0,Kalutara,Used,Petrol,Automatic,Station wagon,green
+BMW,X Series,2018.0,8.0,150000.0,1500.0,Delgoda,Used,Petrol,Automatic,,white
+Toyota,Axio,2015.0,11.0,160000.0,1500.0,Wattala,Used,Hybrid,Automatic,Saloon,white
+Mitsubishi,Lancer,1992.0,34.0,253000.0,2000.0,Moratuwa,Used,Diesel,Manual,Sedan,black
+Mercedes Benz,S Class,2014.0,12.0,90000.0,3000.0,Kohuwala,Used,Petrol,Automatic,Sedan,white
+Micro,MX7,2012.0,14.0,68700.0,1500.0,Piliyandala,Used,Petrol,Manual,Sedan,gray
+Mitsubishi,eK,2023.0,3.0,6600.0,660.0,Kottawa,Brand New,Petrol,Automatic,Hatchback,silver
+Toyota,Premio,2019.0,7.0,113000.0,1500.0,Wellawatta (Colombo 06),Used,Petrol,Automatic,Liftback,white
+Toyota,Sprinter,1999.0,27.0,302000.0,2000.0,Dehiwala,Used,Diesel,Manual,Saloon,silver
+Suzuki,Wagon R,2015.0,11.0,120000.0,650.0,Hambantota,Used,Hybrid,Manual,Sedan,white
+Tata,Indica,2005.0,21.0,261000.0,1200.0,Kaduruwela,Used,Petrol,Manual,Liftback,red
+Suzuki,Alto,2016.0,10.0,0.0,800.0,Anuradhapura,Used,Petrol,Manual,Hatchback,other
+Nissan,Note,2024.0,2.0,8200.0,1200.0,Kadawatha,Used,Hybrid,Automatic,Hatchback,gray
+Suzuki,Wagon R,2024.0,2.0,0.0,600.0,Kuliyapitiya,Brand New,Hybrid,Automatic,Liftback,gray
+Suzuki,Celerio,2016.0,10.0,150000.0,996.0,Kadawatha,Used,Petrol,Automatic,Liftback,yellow
+Toyota,Allion,2008.0,18.0,178000.0,1500.0,Maharagama,Used,Petrol,Automatic,,silver
+Mitsubishi,Lancer,2008.0,18.0,91000.0,1300.0,Ambalangoda,Used,Petrol,Manual,Sedan,silver
+Nissan,N 16,2004.0,22.0,0.0,1500.0,Maharagama,Used,Petrol,Automatic,Saloon,maroon
+Nissan,Sunny,2002.0,24.0,170000.0,1500.0,Minuwangoda,Used,Petrol,Automatic,Saloon,gray
+Toyota,Axio,2015.0,11.0,115000.0,1500.0,Bombuwala,Used,Hybrid,Automatic,Saloon,maroon
+Toyota,Vitz,2015.0,11.0,128000.0,960.0,Athurugiriya,Used,Petrol,Automatic,Hatchback,black
+Honda,City,2025.0,1.0,135.0,1000.0,Kollupitiya (Colombo 03),Brand New,Petrol,Tiptronic,Sedan,gray
+Suzuki,Spacia,2016.0,10.0,131000.0,660.0,Dehiwala,Used,Petrol,Automatic,Hatchback,purple
+Suzuki,Spacia,2018.0,8.0,51000.0,650.0,Kurunegala,Used,Hybrid,Automatic,Station wagon,red
+Suzuki,Celerio,2018.0,8.0,64000.0,1000.0,Kadawatha,Used,Petrol,Automatic,Hatchback,white
+Toyota,Mark II,1996.0,30.0,280000.0,2440.0,Anuradhapura,Used,Diesel,Automatic,Saloon,maroon
+Renault,KWID,2018.0,8.0,89000.0,800.0,Ja-Ela,Used,Petrol,Manual,Hatchback,red
+Toyota,Axio,2016.0,10.0,120000.0,1500.0,Nugegoda,Used,Hybrid,Automatic,Saloon,white
+Suzuki,Cultus,1995.0,31.0,114000.0,1300.0,Kalubowila,Used,Petrol,Manual,Hatchback,other
+Toyota,Passo,2023.0,3.0,6600.0,660.0,Kottawa,Brand New,Petrol,Automatic,Hatchback,brown
+Suzuki,Alto,2010.0,16.0,0.0,800.0,Ragama,Used,Petrol,Manual,Hatchback,other
+Suzuki,Swift,2017.0,9.0,77000.0,1000.0,Bandaragama,Used,Petrol,Automatic,Hatchback,gray
+Peugeot,206,2005.0,21.0,75000.0,1300.0,Nittambuwa,Used,Petrol,Other,Hatchback,green
+Toyota,Axio,2018.0,8.0,116500.0,1490.0,Attanagalla,Used,Hybrid,Automatic,Saloon,white
+Nissan,Sunny,1996.0,30.0,235000.0,1300.0,Malabe,Used,Petrol,Automatic,Hatchback,brown
+Volkswagen,Beetle,2017.0,9.0,101000.0,1200.0,Nugegoda,Used,Petrol,Automatic,Sedan,other
+Toyota,Premio,2014.0,12.0,106000.0,1500.0,Monaragala,Used,Petrol,Automatic,Liftback,white
+Toyota,Vitz,2007.0,19.0,150000.0,1000.0,Dehiwala,Used,Petrol,Automatic,Liftback,white
+Toyota,Vitz,2016.0,10.0,85000.0,1000.0,Kuliyapitiya,Used,Petrol,Automatic,Hatchback,white
+Suzuki,Alto,2008.0,18.0,202000.0,800.0,Kotagala,Used,Petrol,Manual,Hatchback,red
+Honda,N BOX,2026.0,0.0,6600.0,660.0,Kottawa,Brand New,Petrol,Automatic,Hatchback,gray
+Suzuki,Swift,2007.0,19.0,137424.0,1300.0,Dehiwala,Used,Petrol,Automatic,Hatchback,blue
+Toyota,Vitz,2007.0,19.0,160000.0,650.0,Alutgama,Used,Petrol,Automatic,Hatchback,silver
+Micro,Panda,2018.0,8.0,75000.0,1300.0,Nugegoda,Used,Petrol,Other,Liftback,white
+Suzuki,Alto,2015.0,11.0,119000.0,796.0,Delgoda,Used,Petrol,Manual,Hatchback,silver
+Nissan,Roox,2024.0,2.0,0.0,660.0,Bellanwila,Brand New,Hybrid,Automatic,Station wagon,gray
+Suzuki,Wagon R,2015.0,11.0,80000.0,650.0,Matara,Reconditioned,Petrol,Automatic,Hatchback,blue
+Suzuki,Alto,2015.0,11.0,130000.0,800.0,Kotte,Used,Petrol,Manual,Hatchback,white
+Suzuki,Celerio,2015.0,11.0,122000.0,1000.0,Akarawita,Used,Petrol,Tiptronic,Hatchback,red
+Perodua,Viva,2013.0,13.0,140000.0,1000.0,Battaramulla,Used,Petrol,Automatic,Hatchback,black
+Daihatsu,Taft,2024.0,2.0,0.0,660.0,Wattala,Brand New,Petrol,Automatic,Hatchback,green
+Suzuki,Alto,2012.0,14.0,0.0,800.0,Kaduruwela,Used,Petrol,Manual,Hatchback,other
+Mitsubishi,Lancer,2004.0,22.0,250000.0,1300.0,Anuradhapura,Used,Petrol,Automatic,Convertible,navy
+Suzuki,Celerio,2014.0,12.0,103000.0,1000.0,Kadawatha,Used,Petrol,Automatic,Hatchback,red
+Honda,Civic,2008.0,18.0,120000.0,1600.0,Peradeniya,Used,Petrol,Automatic,Sedan,black
+Suzuki,Celerio,2018.0,8.0,64000.0,1000.0,Kadawatha,Used,Petrol,Automatic,Hatchback,red
+Suzuki,Wagon R,2025.0,1.0,2700.0,650.0,Yakkala,Reconditioned,Petrol,Automatic,Hatchback,silver
+Suzuki,Alto,2004.0,22.0,18100.0,650.0,Nikaweratiya,Used,Petrol,Automatic,Hatchback,white
+Mazda,Axela,2007.0,19.0,149700.0,2007.0,Malabe,Used,Petrol,Automatic,Saloon,white
+Toyota,Vitz,2018.0,8.0,58000.0,996.0,Kandy,Used,Petrol,Automatic,Hatchback,gray
+Daihatsu,Taft,2025.0,1.0,3500.0,690.0,Kurunegala,Brand New,Hybrid,Automatic,Hatchback,green
+BMW,M Series,2017.0,9.0,65000.0,1500.0,Cinnamon Garden (Colombo 07),Used,Petrol,Automatic,Saloon,white
+Suzuki,Alto,2017.0,9.0,185000.0,796.0,Kosgoda,Used,Petrol,Manual,Hatchback,white
+Micro,Panda,2018.0,8.0,65600.0,1000.0,Kaleliya,Used,Petrol,Tiptronic,Hatchback,black
+Toyota,Corolla,1996.0,30.0,190000.0,1970.0,Pelmadulla,Used,Diesel,Automatic,Sedan,white
+Nissan,Primera,2001.0,25.0,140000.0,1800.0,Kegalle,Used,Petrol,Automatic,Sedan,blue
+Suzuki,Spacia,2024.0,2.0,0.0,650.0,Kurunegala,Brand New,Hybrid,Automatic,,gray
+Suzuki,Wagon R,2025.0,1.0,0.0,660.0,Moratuwa,Brand New,Petrol,Automatic,Station wagon,white
+Daihatsu,Charade,1990.0,36.0,14000.0,1000.0,Kandy,Used,Petrol,Manual,Hatchback,white
+Suzuki,Spacia,2017.0,9.0,150200.0,660.0,Anuradhapura,Used,Petrol,Automatic,Liftback,white
+Nissan,AD Wagon,1999.0,27.0,100000.0,1290.0,Badulla,Used,Petrol,Automatic,,white
+Toyota,Vitz,2007.0,19.0,128000.0,1000.0,Akurana,Used,Petrol,Automatic,Hatchback,white
+Suzuki,Wagon R,2018.0,8.0,61000.0,658.0,Batticaloa,Used,Petrol,Automatic,Hatchback,white
+Mazda,Flair,2015.0,11.0,128000.0,650.0,Ratnapura,Used,Petrol,Automatic,Hatchback,black
+Toyota,Yaris Ativ,2017.0,9.0,85000.0,1329.0,Kadawatha,Used,Petrol,Manual,Saloon,black
+Suzuki,Wagon R,2016.0,10.0,96000.0,650.0,Piliyandala,Used,Hybrid,Automatic,,white
+Suzuki,Celerio,2019.0,7.0,78000.0,1000.0,Kadawatha,Used,Petrol,Automatic,Hatchback,white
+Toyota,Belta,2007.0,19.0,116500.0,1000.0,Matara,Used,Petrol,Automatic,Saloon,silver
+Toyota,Pixis,2018.0,8.0,55000.0,960.0,Negombo,Used,Petrol,Manual,Hatchback,white
+Daihatsu,Taft,2024.0,2.0,0.0,660.0,Homagama,Brand New,Petrol,Automatic,Hatchback,green
+Daihatsu,Mira,2024.0,2.0,2000.0,658.0,Minuwangoda,Reconditioned,Petrol,Automatic,Liftback,white
+Datsun,Redi Go,2016.0,10.0,47090.0,800.0,Padukka,Used,Petrol,Manual,Hatchback,green
+Perodua,Viva,2010.0,16.0,114000.0,1000.0,Gampaha,Used,Petrol,Automatic,Hatchback,blue
+Honda,Grace,2016.0,10.0,96000.0,1490.0,Kalutara,Used,Hybrid,Automatic,Saloon,red
+Toyota,Aqua,2013.0,13.0,216000.0,1490.0,Anuradhapura,Used,Hybrid,Automatic,Hatchback,black
+Toyota,Prius,2014.0,12.0,175000.0,1799.0,Kandy,Used,Hybrid,Automatic,Hatchback,black
+Suzuki,Maruti,2007.0,19.0,92000.0,800.0,Homagama,Used,Petrol,Manual,Liftback,blue
+Toyota,Vitz,2018.0,8.0,68000.0,990.0,Kandana,Used,Hybrid,Automatic,Hatchback,gray
+Perodua,Viva,2011.0,15.0,0.0,660.0,Kaduwela,Used,Petrol,Automatic,Liftback,white
+Peugeot,306,1999.0,27.0,0.0,1300.0,Pilimatalawa,Used,Petrol,Manual,,black
+Daihatsu,Mira,2003.0,23.0,151000.0,650.0,Malabe,Used,Petrol,Automatic,Hatchback,blue
+Honda,Aria,2008.0,18.0,199000.0,1500.0,Anuradhapura,Used,Petrol,Automatic,Saloon,gray
+Suzuki,Alto,2010.0,16.0,0.0,800.0,Kirulapone,Reconditioned,Petrol,Manual,Hatchback,black
+Toyota,Allion,2007.0,19.0,260000.0,1500.0,Homagama,Used,Petrol,Automatic,Sedan,red
+Suzuki,Alto,2015.0,11.0,50000.0,800.0,Kadawatha,Used,Petrol,Manual,Hatchback,black
+Suzuki,Hustler,2017.0,9.0,125112.0,660.0,Ja-Ela,Used,Petrol,Automatic,,red
+Toyota,Aqua,2012.0,14.0,132000.0,1500.0,Kiribathgoda,Used,Hybrid,Automatic,Hatchback,blue
+Toyota,Axio,2017.0,9.0,180000.0,1469.0,Slave Island (Colombo 02),Used,Petrol,Automatic,Saloon,blue
+Honda,Fit,2015.0,11.0,123.0,,Moratuwa,Used,Hybrid,Automatic,Saloon,blue
+Suzuki,Wagon R,2025.0,1.0,0.0,650.0,Polonnaruwa,Brand New,Hybrid,Automatic,Hatchback,white
+Toyota,Axio,2008.0,18.0,154000.0,1800.0,Matugama,Used,Petrol,Automatic,Saloon,white
+Suzuki,Swift,2004.0,22.0,154000.0,1300.0,Panadura,Used,Petrol,Automatic,Hatchback,beige
+Audi,A3,2023.0,3.0,19500.0,1000.0,Kiribathgoda,Reconditioned,Petrol,Automatic,Saloon,blue
+Honda,Civic,2018.0,8.0,105000.0,1000.0,Ja-Ela,Used,Petrol,Automatic,Hatchback,blue
+Zotye,Z100,2017.0,9.0,37000.0,1000.0,Horana,Used,Petrol,Manual,Hatchback,red
+Suzuki,Alto,2014.0,12.0,200000.0,800.0,Kundasale,Used,Petrol,Manual,Hatchback,gray
+Toyota,Premio,2015.0,11.0,200000.0,1500.0,Borella (Colombo 08),Used,Petrol,Automatic,Saloon,maroon
+Toyota,Premio,2012.0,14.0,96000.0,1500.0,Agaliya,Used,Petrol,Manual,Hatchback,white
+Toyota,Aqua,2015.0,11.0,139000.0,1500.0,Katugastota,Used,Petrol,Automatic,Hatchback,black
+Nissan,Bluebird,2000.0,26.0,169000.0,1800.0,Ukuwela,Used,Petrol,Automatic,Sedan,maroon
+Toyota,Passo,2015.0,11.0,115500.0,996.0,Kadawatha,Used,Petrol,Automatic,Hatchback,blue
+Hyundai,Eon,2018.0,8.0,65000.0,814.0,Kelaniya,Used,Petrol,Manual,Saloon,gray
+Suzuki,Wagon R,2017.0,9.0,160000.0,,Negombo,Used,Petrol,Automatic,,white
+Suzuki,Swift,2004.0,22.0,187654.0,1300.0,Katunayake,Used,Petrol,Automatic,Hatchback,white
+Mitsubishi,Lancer,1997.0,29.0,0.0,1300.0,Alahengama,Used,Petrol,Manual,Saloon,red
+Mitsubishi,i-MiEV,2013.0,13.0,90000.0,600.0,Kiribathgoda,Used,Electric,Automatic,Saloon,white
+Toyota,Yaris,2022.0,4.0,22000.0,1000.0,Borella (Colombo 08),Brand New,Petrol,Automatic,Hatchback,white
+Suzuki,Wagon R,2025.0,1.0,0.0,650.0,Nittambuwa,Brand New,Hybrid,Automatic,Station wagon,black
+Renault,KWID,2016.0,10.0,120724.0,800.0,Moratuwa,Used,Petrol,Manual,Hatchback,white
+KIA,Rio,2002.0,24.0,150000.0,1500.0,Narahenpita (Colombo 05),Used,Petrol,Automatic,Hatchback,silver
+Toyota,Allion,2010.0,16.0,121000.0,1500.0,Panadura,Used,Petrol,Automatic,Saloon,maroon
+Suzuki,Alto,2015.0,11.0,60000.0,800.0,Nittambuwa,Used,Petrol,Manual,Hatchback,silver
+Micro,Panda,2018.0,8.0,52000.0,1000.0,Godagama,Used,Petrol,Manual,Hatchback,other
+Suzuki,Wagon R,2017.0,9.0,87000.0,1500.0,Boralesgamuwa,Used,Hybrid,Automatic,Liftback,black
+Honda,Fit,2015.0,11.0,146152.0,1500.0,Bandaragama,Used,Hybrid,Automatic,Hatchback,silver
+Suzuki,Swift,2005.0,21.0,222000.0,1500.0,Ruwanwella,Used,Petrol,Tiptronic,Hatchback,white
+Toyota,Platz,2001.0,25.0,0.0,1000.0,Horana,Used,Petrol,Automatic,,black
+Toyota,Aqua,2014.0,12.0,148000.0,1496.0,Galle,Used,Petrol,Automatic,Hatchback,white
+Perodua,Axia,2017.0,9.0,91000.0,1000.0,Kadawatha,Used,Petrol,Automatic,Hatchback,silver
+Suzuki,Swift,2009.0,17.0,175755.0,1242.0,Sapugaskanda,Used,Petrol,Automatic,Hatchback,silver
+Daihatsu,Mira,2014.0,12.0,76500.0,650.0,Kottawa,Used,Petrol,Automatic,Hatchback,pink
+Toyota,Prius,2012.0,14.0,145000.0,1800.0,Kurunegala,Used,Hybrid,Automatic,Hatchback,maroon
+Toyota,Starlet,1986.0,40.0,0.0,1300.0,Horana,Used,Petrol,Manual,,black
+Toyota,Corolla,1992.0,34.0,123456.0,1500.0,Anamaduwa,Used,Petrol,Manual,Saloon,white
+Toyota,Wigo,2017.0,9.0,42000.0,1000.0,Kohuwala,Used,Petrol,Automatic,Hatchback,other
+Suzuki,Wagon R,2015.0,11.0,113000.0,,Kandy,Used,Petrol,Automatic,Hatchback,maroon
+Suzuki,Wagon R,2018.0,8.0,88000.0,650.0,Akurana,Used,Petrol,Automatic,Liftback,red
+Suzuki,Swift,2017.0,9.0,78000.0,1000.0,Dehiwala,Used,Petrol,Automatic,Liftback,white
+Toyota,Axio,2014.0,12.0,145000.0,1500.0,Athurugiriya,Used,Petrol,Automatic,Hatchback,white
+Mitsubishi,Lancer,1991.0,35.0,150000.0,1600.0,Peradeniya,Used,Petrol,Manual,Sedan,green
+Toyota,Corolla,,,0.0,1200.0,Horana,Used,Petrol,Manual,,red
+Toyota,Corolla,1986.0,40.0,1000.0,1300.0,Kuruwita,Used,Petrol,Manual,Hatchback,blue
+BMW,3 Series,2011.0,15.0,0.0,1990.0,Panadura,Used,Diesel,Automatic,Sedan,white
+Hyundai,Eon,2017.0,9.0,48000.0,800.0,Kalmunai,Used,Petrol,Automatic,Liftback,white
+Daihatsu,Mira,2024.0,2.0,2400.0,660.0,Kollupitiya (Colombo 03),Brand New,Petrol,Automatic,Hatchback,blue
+Toyota,Premio,2007.0,19.0,108000.0,1500.0,Sri Jayawardenepura Kotte,Used,Petrol,Automatic,Saloon,maroon
+Nissan,Dayz,2024.0,2.0,6600.0,660.0,Kottawa,Brand New,Petrol,Automatic,Hatchback,other
+Toyota,Corolla,2019.0,7.0,93000.0,1490.0,Homagama,Used,Hybrid,Automatic,Sedan,red
+Suzuki,Celerio,2017.0,9.0,93000.0,1000.0,Kadawatha,Used,Petrol,Automatic,Hatchback,red
+Suzuki,Spacia,2023.0,3.0,4500.0,690.0,Kurunegala,Brand New,Hybrid,Automatic,Hatchback,white
+Suzuki,Wagon R,2017.0,9.0,130000.0,660.0,Maharagama,Used,Hybrid,Automatic,Liftback,white
+Toyota,Premio,2010.0,16.0,85800.0,1500.0,Chilaw,Used,Petrol,Automatic,Liftback,maroon
+BMW,M Series,2014.0,12.0,107000.0,2000.0,Gampaha,Used,Diesel,Automatic,Saloon,white
+Nissan,March,2001.0,25.0,145000.0,990.0,Kottawa,Used,Petrol,Automatic,Station wagon,blue
+Suzuki,Alto,2014.0,12.0,95000.0,800.0,Kuliyapitiya,Used,Petrol,Manual,Hatchback,white
+Suzuki,Wagon R,2014.0,12.0,0.0,650.0,Hokandara,Used,Petrol,Automatic,Liftback,silver
+Mercedes Benz,C Class,2000.0,26.0,204000.0,2000.0,Beruwala,Used,Petrol,Automatic,Sedan,beige
+Toyota,Axio,2014.0,12.0,245000.0,1329.0,Akarella,Used,Petrol,Automatic,Hatchback,white
+Toyota,Yaris,2023.0,3.0,76000.0,1000.0,Kotte,Reconditioned,Petrol,Automatic,Hatchback,white
+Suzuki,Wagon R,2015.0,11.0,106900.0,650.0,Bandaragama,Used,Petrol,Automatic,Liftback,white
+Toyota,Vitz,2008.0,18.0,152000.0,1000.0,Waikkal,Used,Petrol,Automatic,Hatchback,white
+Toyota,Aqua,2013.0,13.0,152600.0,1500.0,Nittambuwa,Used,Petrol,Automatic,Saloon,other
+Micro,Panda,2012.0,14.0,120500.0,1300.0,Maradana (Colombo 10),Used,Petrol,Manual,Hatchback,white
+Toyota,Aqua,2012.0,14.0,11200.0,1500.0,Sri Jayawardenepura Kotte,Used,Hybrid,Automatic,Hatchback,silver
+Suzuki,Maruti,2006.0,20.0,120000.0,800.0,Nugegoda,Used,Petrol,Manual,Liftback,other
+Honda,Insight,2009.0,17.0,172000.0,1234.0,Kiribathgoda,Used,Petrol,Automatic,Liftback,white
+Toyota,Pixis,2024.0,2.0,0.0,650.0,Angoda,Brand New,Petrol,Automatic,Hatchback,blue
+Daihatsu,Thor,2022.0,4.0,21000.0,1000.0,Adampan,Brand New,Petrol,Automatic,Hatchback,blue
+Audi,A6,2013.0,13.0,165000.0,1968.0,Slave Island (Colombo 02),Used,Diesel,Automatic,Sedan,black
+Suzuki,Wagon R,2014.0,12.0,83000.0,660.0,Athurugiriya,Used,Hybrid,Automatic,,white
+Nissan,Sunny,2002.0,24.0,0.0,1500.0,Bibile,Reconditioned,Diesel,Automatic,Saloon,other
+Suzuki,Swift,2003.0,23.0,68000.0,1300.0,Dehiwala,Used,Petrol,Manual,Liftback,silver
+Suzuki,Celerio,2015.0,11.0,85328.0,1000.0,Batticaloa,Used,Petrol,Automatic,Hatchback,white
+Suzuki,Wagon R,2017.0,9.0,110000.0,660.0,Kirillawala,Used,Petrol,Automatic,Hatchback,white
+Perodua,Axia,2016.0,10.0,37445.0,1000.0,Kandy,Used,Petrol,Automatic,Hatchback,silver
+Toyota,Yaris,2007.0,19.0,170000.0,1300.0,Athurugiriya,Used,Petrol,Automatic,Sedan,white
+Suzuki,Wagon R,2017.0,9.0,35360.0,650.0,Piliyandala,Used,Hybrid,Automatic,Sedan,purple
+Toyota,Vitz,2019.0,7.0,46000.0,1000.0,Negombo,Used,Petrol,Automatic,,red
+Toyota,Axio,2017.0,9.0,123000.0,1500.0,Jambugahapitiya,Used,Hybrid,Automatic,,white
+Toyota,Prius,2007.0,19.0,178700.0,1490.0,Medawachchiya,Used,Hybrid,Automatic,Hatchback,silver
+Suzuki,Maruti,2010.0,16.0,0.0,800.0,Kurunegala,Used,Petrol,Manual,Liftback,black
+Suzuki,Ignis,2016.0,10.0,86990.0,1240.0,Kiribathgoda,Used,Petrol,Automatic,Hatchback,red
+Toyota,Passo,2023.0,3.0,1234.0,660.0,Kottawa,Brand New,Petrol,Automatic,Hatchback,maroon
+Toyota,Aqua,2014.0,12.0,127500.0,1500.0,Piliyandala,Used,Petrol,Manual,Hatchback,white
+Toyota,Mark II,2001.0,25.0,148000.0,2000.0,Kurunegala,Used,Petrol,Automatic,Hatchback,black
+Tata,Nano,2016.0,10.0,120000.0,660.0,Adampan,Used,Petrol,Automatic,Hatchback,red
+Daihatsu,Move,2016.0,10.0,78000.0,658.0,Weliveriya,Used,Petrol,Automatic,Hatchback,silver
+Suzuki,Spacia,2025.0,1.0,3500.0,690.0,Kurunegala,Brand New,Hybrid,Automatic,Hatchback,white
+Honda,Grace,2017.0,9.0,88500.0,1500.0,Hapugala,Used,Hybrid,Automatic,Saloon,purple
+Nissan,Dayz,2025.0,1.0,1000.0,658.0,Negombo,Reconditioned,Petrol,Automatic,Hatchback,white
+Toyota,Vitz,2007.0,19.0,0.0,1300.0,Kottawa,Used,Petrol,Automatic,Hatchback,black
+Suzuki,Wagon R,2015.0,11.0,0.0,650.0,Agalawatta,Used,Petrol,Automatic,Hatchback,red
+Toyota,Carina,1999.0,27.0,165000.0,1500.0,Kuliyapitiya,Used,Petrol,Automatic,Saloon,silver
+KIA,Sephia,2002.0,24.0,162481.0,1331.0,Mattegoda,Used,Petrol,Automatic,Sedan,gray
+Suzuki,Wagon R,2024.0,2.0,0.0,650.0,Digana,Brand New,Petrol,Automatic,,black
+Nissan,Almera,2025.0,1.0,0.0,1000.0,Kohuwala,Brand New,Petrol,Automatic,Sedan,red
+Toyota,Aqua,2015.0,11.0,129000.0,1500.0,Horana,Used,Hybrid,Automatic,Hatchback,black
+Toyota,Prius,2010.0,16.0,216000.0,1900.0,Rajagiriya,Used,Hybrid,Automatic,Saloon,white
+Honda,Grace,2015.0,11.0,160000.0,1000.0,Kadugannawa,Used,Hybrid,Automatic,Saloon,maroon
+Toyota,Aqua,2015.0,11.0,150000.0,1496.0,Baddegama,Used,Hybrid,Automatic,Convertible,white
+Toyota,Axio,2007.0,19.0,0.0,1200.0,Nikaweratiya,Used,Petrol,Automatic,Hatchback,gray
+Nissan,Clipper,2023.0,3.0,6600.0,660.0,Kottawa,Reconditioned,Petrol,Automatic,Hatchback,white
+Toyota,Aqua,2012.0,14.0,101000.0,1490.0,Maharagama,Used,Hybrid,Automatic,Liftback,silver
+Suzuki,Wagon R,2014.0,12.0,120000.0,650.0,Polonnaruwa,Reconditioned,Petrol,Automatic,Hatchback,white
+Toyota,Vitz,2011.0,15.0,149000.0,1000.0,Kalubowila,Used,Petrol,Automatic,Convertible,black
+Nissan,Sunny,1992.0,34.0,150000.0,2000.0,Yakkala,Used,Diesel,Manual,Saloon,other
+Suzuki,Wagon R,2024.0,2.0,3400.0,660.0,Colombo Fort (Colombo 01),Reconditioned,Petrol,Automatic,Hatchback,blue
+Suzuki,Alto,2012.0,14.0,170000.0,1000.0,Negombo,Used,Petrol,Manual,Hatchback,maroon
+Perodua,Axia,2016.0,10.0,167236.0,1000.0,Moratuwa,Used,Petrol,Automatic,Hatchback,silver
+Toyota,Axio,2024.0,2.0,5000.0,1500.0,Kottawa,Brand New,Hybrid,Automatic,Hatchback,silver
+Nissan,Sunny,2008.0,18.0,98000.0,1300.0,Kalmunai,Used,Petrol,Automatic,Saloon,silver
+Toyota,Premio,2014.0,12.0,136000.0,1500.0,Narammala,Used,Petrol,Automatic,Hatchback,maroon
+Toyota,Corolla,2003.0,23.0,173000.0,1500.0,Kirindiwela,Used,Petrol,Automatic,Saloon,silver
+Suzuki,Swift,2004.0,22.0,165000.0,1300.0,Moratuwa,Used,Petrol,Automatic,Hatchback,silver
+Toyota,Axio,2012.0,14.0,161000.0,1490.0,Nugegoda,Used,Petrol,Automatic,Sedan,silver
+Suzuki,Alto,2015.0,11.0,122000.0,1000.0,Kotahena (Colombo 13),Used,Petrol,Automatic,Liftback,gray
+Suzuki,Wagon R,2014.0,12.0,133000.0,,Kurunegala,Used,Petrol,Automatic,Hatchback,red
+Mercedes Benz,S Class,2005.0,21.0,150000.0,3500.0,Dehiwala,Used,Petrol,Automatic,Sedan,gray
+Hyundai,Eon,2015.0,11.0,75000.0,1200.0,Hingurakgoda,Used,Petrol,Automatic,Liftback,gray
+Toyota,Yaris,2025.0,1.0,0.0,1000.0,Kelaniya,Brand New,Petrol,Automatic,Liftback,gray
+Mitsubishi,Lancer,1992.0,34.0,250000.0,1500.0,Battaramulla,Used,Petrol,Manual,Sedan,blue
+Suzuki,Spacia,2018.0,8.0,75000.0,660.0,Gampaha,Used,Petrol,Automatic,,white
+Toyota,Yaris,2024.0,2.0,0.0,999.0,Kelaniya,Brand New,Petrol,Automatic,Hatchback,red
+Suzuki,Wagon R,2017.0,9.0,109000.0,650.0,Alawatugoda,Used,Petrol,Automatic,Station wagon,black
+Daihatsu,Mira,2024.0,2.0,0.0,660.0,Sapugaskanda,Brand New,Petrol,Automatic,Hatchback,blue
+Suzuki,Maruti,2011.0,15.0,0.0,800.0,Kandy,Used,Petrol,Manual,Hatchback,maroon
+BMW,F30,2017.0,9.0,65000.0,1500.0,Cinnamon Garden (Colombo 07),Used,Petrol,Automatic,Sedan,white
+Toyota,Axio,2015.0,11.0,0.0,1500.0,Anuradhapura,Used,Petrol,Automatic,Saloon,black
+Toyota,Premio,2013.0,13.0,180000.0,1500.0,Kandy,Used,Petrol,Automatic,Liftback,maroon
+Toyota,Premio,2017.0,9.0,80915.0,1500.0,Kohuwala,Reconditioned,Petrol,Automatic,Saloon,black
+Toyota,Axio,2016.0,10.0,170000.0,1490.0,Welipennagahamulla,Used,Hybrid,Automatic,Sedan,silver
+Suzuki,Spacia,2024.0,2.0,0.0,658.0,Nugegoda,Brand New,Petrol,Automatic,Hatchback,white
+Suzuki,Alto,2015.0,11.0,82500.0,998.0,Dematagoda (Colombo 09),Used,Petrol,Automatic,Liftback,blue
+Honda,Grace,2014.0,12.0,120000.0,1500.0,Wellampitiya,Used,Petrol,Automatic,Saloon,gray
+Nissan,Tiida,2012.0,14.0,160000.0,1500.0,Matale,Used,Petrol,Automatic,Saloon,white
+Toyota,Premio,2007.0,19.0,118000.0,1500.0,Kandy,Used,Petrol,Automatic,Hatchback,white
+Nissan,Dayz,2024.0,2.0,6600.0,660.0,Kottawa,Reconditioned,Petrol,Automatic,Hatchback,other
+Suzuki,Alto,2017.0,9.0,115618.0,660.0,Mulleriyawa New Town,Used,Petrol,Automatic,Hatchback,blue
+Suzuki,Celerio,2017.0,9.0,110000.0,1000.0,Kotikawatta,Used,Petrol,Automatic,,white
+Hyundai,Accent,2001.0,25.0,0.0,1300.0,Pepiliyana,Used,Petrol,Automatic,Saloon,gold
+Mazda,6,2015.0,11.0,185000.0,2500.0,Negombo,Used,Petrol,Automatic,Saloon,red
+Suzuki,Wagon R,2017.0,9.0,64000.0,650.0,Malabe,Used,Hybrid,Automatic,Hatchback,white
+Honda,Shuttle,2018.0,8.0,95000.0,1500.0,Yakkala,Used,Hybrid,Automatic,Hatchback,black
+Suzuki,Wagon R,2024.0,2.0,2500.0,690.0,Kurunegala,Brand New,Hybrid,Automatic,Hatchback,white
+Suzuki,Wagon R,2017.0,9.0,134000.0,655.0,Kalmunai,Used,Hybrid,Automatic,Hatchback,black
+Toyota,Aqua,2014.0,12.0,152000.0,1500.0,Dehiwala,Used,Petrol,Automatic,Liftback,blue
+Toyota,Axio,2007.0,19.0,220000.0,1500.0,Anuradhapura,Used,Petrol,Automatic,Sedan,silver
+Toyota,Axio,2014.0,12.0,121000.0,1500.0,Boralesgamuwa,Used,Hybrid,Automatic,Saloon,white
+Toyota,Vitz,2000.0,26.0,200000.0,990.0,Kochchikade,Used,Petrol,Automatic,Hatchback,black
+Toyota,Axio,2015.0,11.0,178000.0,1500.0,Anuradhapura,Used,Petrol,Automatic,Liftback,black
+Micro,Panda,2012.0,14.0,0.0,1500.0,Moratuwa,Used,Petrol,Manual,Hatchback,white
+Honda,Accord,2004.0,22.0,183500.0,1000.0,Horana,Used,Petrol,Automatic,Saloon,brown
+Nissan,Primera,2001.0,25.0,170000.0,1200.0,Colombo Fort (Colombo 01),Used,Petrol,Manual,Hatchback,silver
+Daihatsu,Charade,2000.0,26.0,75000.0,1300.0,Rajagiriya,Used,Petrol,Other,Liftback,blue
+Honda,Fit,2015.0,11.0,90000.0,1500.0,Matara,Used,Petrol,Automatic,Hatchback,white
+Suzuki,Alto,2010.0,16.0,65110.0,800.0,Pannala,Used,Petrol,Manual,Sports,silver
+Honda,Fit,2011.0,15.0,140000.0,1330.0,Kalpitiya,Used,Hybrid,Automatic,Hatchback,green
+Honda,Accord,2001.0,25.0,192000.0,1800.0,Panadura,Used,Petrol,Automatic,Sedan,silver
+Toyota,Allion,2013.0,13.0,120000.0,1490.0,Gampaha,Used,Petrol,Automatic,Saloon,black
+Toyota,Prius,2014.0,12.0,134000.0,1800.0,Nugegoda,Used,Hybrid,Automatic,Liftback,silver
+Suzuki,Spacia,2023.0,3.0,100.0,658.0,Angoda,Brand New,Petrol,Automatic,Hatchback,blue
+Suzuki,Wagon R,2018.0,8.0,74000.0,1000.0,Kohuwala,Used,Petrol,Automatic,Hatchback,white
+Daihatsu,Taft,2025.0,1.0,6600.0,660.0,Kottawa,Brand New,Petrol,Automatic,Hatchback,gray
+Suzuki,Spacia,2024.0,2.0,4000.0,650.0,Madawala Bazaar,Brand New,Hybrid,Automatic,Station wagon,white
+Suzuki,Celerio,2018.0,8.0,78000.0,1000.0,Kadawatha,Used,Petrol,Automatic,Hatchback,white
+Suzuki,Alto,2015.0,11.0,78000.0,800.0,Kalmunai,Used,Petrol,Manual,Liftback,silver
+Toyota,Corolla,2008.0,18.0,177000.0,1600.0,Gampaha,Used,Petrol,Automatic,Saloon,black
+Suzuki,Wagon R,2017.0,9.0,0.0,,Kurunegala,Used,Petrol,Manual,Hatchback,white
+Toyota,Aqua,2012.0,14.0,153000.0,1490.0,Kadawatha,Used,Petrol,Automatic,Liftback,black
+Nissan,Note,2023.0,3.0,500.0,1198.0,Anuradhapura,Brand New,Petrol,Automatic,Hatchback,purple
+Nissan,Roox,2023.0,3.0,48500.0,660.0,Kottawa,Brand New,Hybrid,Automatic,Hatchback,white
+Toyota,Vitz,2016.0,10.0,21500.0,1000.0,Mawanella,Used,Petrol,Automatic,Hatchback,black
+Toyota,Axio,2011.0,15.0,133000.0,1500.0,Kurunegala,Used,Petrol,Automatic,Liftback,white
+Suzuki,Alto,2010.0,16.0,200000.0,660.0,Matale,Used,Petrol,Manual,Hatchback,red
+Suzuki,Maruti,2010.0,16.0,84000.0,800.0,Kahathuduwa,Used,Petrol,Manual,Hatchback,silver
+Toyota,Corolla,1999.0,27.0,180000.0,1300.0,Kurunegala,Used,Petrol,Automatic,Station wagon,white
+Toyota,Premio,2010.0,16.0,118000.0,1500.0,Kandy,Used,Petrol,Automatic,Liftback,brown
+Suzuki,Spacia,2022.0,4.0,30000.0,660.0,Alutgama,Brand New,Hybrid,Automatic,Hatchback,white
+Suzuki,Celerio,2015.0,11.0,140000.0,996.0,Rajagiriya,Used,Petrol,Manual,Hatchback,white
+Suzuki,Alto,2010.0,16.0,133000.0,660.0,Kadawatha,Used,Petrol,Manual,Hatchback,maroon
+Toyota,Roomy,2017.0,9.0,69000.0,900.0,Homagama,Used,Petrol,Automatic,Hatchback,silver
+Suzuki,Wagon R,2024.0,2.0,1850.0,650.0,Nugegoda,Brand New,Hybrid,Automatic,Sedan,white
+Toyota,Vitz,2018.0,8.0,61345.0,1000.0,Pannala,Used,Petrol,Manual,Sports,silver
+Toyota,Yaris,2024.0,2.0,11500.0,1200.0,Gampaha,Reconditioned,Petrol,Automatic,Hatchback,black
+Toyota,Passo,2023.0,3.0,6600.0,660.0,Kottawa,Brand New,Petrol,Automatic,Hatchback,gray
+Suzuki,Alto,2002.0,24.0,0.0,800.0,Ratmalana,Used,Petrol,Automatic,,blue
+Toyota,Yaris Ativ,2025.0,1.0,0.0,1200.0,Colombo Fort (Colombo 01),Brand New,Petrol,Automatic,Saloon,white
+Suzuki,Celerio,2014.0,12.0,0.0,990.0,Horana,Used,Petrol,Manual,Hatchback,black
+Perodua,Viva,2013.0,13.0,92000.0,1000.0,Adampan,Used,Petrol,Automatic,Hatchback,purple
+Toyota,Axio,2018.0,8.0,125000.0,1500.0,Nugegoda,Used,Hybrid,Automatic,Saloon,red
+Daihatsu,Thor,2023.0,3.0,11700.0,1000.0,Borella (Colombo 08),Brand New,Petrol,Automatic,Hatchback,white
+Toyota,Corolla,1997.0,29.0,0.0,2000.0,Piliyandala,Reconditioned,Diesel,Automatic,Saloon,white
+Geely,Panda,2015.0,11.0,67000.0,1000.0,Kottawa,Used,Petrol,Manual,Hatchback,black
+Suzuki,Maruti,2011.0,15.0,0.0,800.0,Kandy,Used,Petrol,Manual,Hatchback,white
+Honda,Fit,2013.0,13.0,122000.0,1330.0,Pannala,Used,Petrol,Manual,Sports,blue
+Honda,Civic,2007.0,19.0,106000.0,1490.0,Pitipana Homagama,Used,Petrol,Manual,Hatchback,silver
+Toyota,Alpha,2012.0,14.0,140000.0,1800.0,Marawila,Used,Hybrid,Automatic,Hatchback,silver
+Toyota,Vitz,2015.0,11.0,150000.0,1000.0,Galagedara,Used,Petrol,Automatic,Hatchback,white
+Toyota,Belta,2008.0,18.0,151000.0,1300.0,Dehiwala,Used,Petrol,Automatic,Sedan,silver
+BMW,i Series,2013.0,13.0,1500.0,1000.0,Nugegoda,Used,Petrol,Manual,Hatchback,gray
+Suzuki,Wagon R,2018.0,8.0,115000.0,650.0,Madurankuliya,Used,Petrol,Automatic,Hatchback,white
+Perodua,Bezza,2017.0,9.0,140000.0,998.0,Talawatugoda,Used,Petrol,Automatic,Saloon,silver
+Suzuki,Swift,2003.0,23.0,154000.0,1300.0,Horana,Used,Petrol,Automatic,Hatchback,black
+Mitsubishi,eK,2023.0,3.0,4500.0,690.0,Kurunegala,Brand New,Hybrid,Automatic,Hatchback,white
+Perodua,Viva,2013.0,13.0,0.0,1000.0,Kandy,Used,Petrol,Automatic,Hatchback,white
+Honda,Civic,2002.0,24.0,280000.0,1500.0,Dehiwala,Used,Petrol,Automatic,Hatchback,silver
+Suzuki,Swift,2008.0,18.0,116000.0,1300.0,Malabe,Used,Petrol,Automatic,Hatchback,blue
+Suzuki,Wagon R,2014.0,12.0,98000.0,650.0,Alampil,Used,Petrol,Automatic,Station wagon,silver
+Suzuki,Maruti,2007.0,19.0,131200.0,800.0,Divulapitiya,Used,Petrol,Manual,Saloon,blue
+Toyota,Vitz,2016.0,10.0,77000.0,1000.0,Kuliyapitiya,Used,Petrol,Automatic,Liftback,silver
+Toyota,Axio,2015.0,11.0,107000.0,1500.0,Dompe,Used,Hybrid,Automatic,Sedan,purple
+Honda,Fit,2012.0,14.0,126650.0,1339.0,Moratuwa,Used,Petrol,Automatic,Hatchback,silver
+Suzuki,Alto,2016.0,10.0,36359.0,660.0,Kottawa,Used,Petrol,Tiptronic,Hatchback,silver
+Suzuki,Wagon R,2025.0,1.0,0.0,650.0,Wattala,Brand New,Petrol,Automatic,Hatchback,white
+Perodua,Axia,2016.0,10.0,86000.0,1000.0,Kadawatha,Used,Petrol,Automatic,Hatchback,white
+Suzuki,Alto,2013.0,13.0,92929.0,1000.0,Gampaha,Used,Petrol,Manual,Hatchback,red
+Suzuki,Celerio,2016.0,10.0,116000.0,1000.0,Kadawatha,Used,Petrol,Automatic,Hatchback,white
+Toyota,Axio,2012.0,14.0,81000.0,1500.0,Kottawa,Used,Petrol,Automatic,Saloon,white
+Perodua,Elite,2011.0,15.0,112000.0,1000.0,Moratuwa,Used,Petrol,Automatic,Hatchback,black
+Suzuki,Wagon R,2018.0,8.0,68000.0,650.0,Yakkala,Used,Hybrid,Automatic,Hatchback,white
+Toyota,Premio,2019.0,7.0,89000.0,1500.0,Kohuwala,Used,Petrol,Automatic,Saloon,silver
+Suzuki,Spacia,2024.0,2.0,3000.0,990.0,Halloluwa,Brand New,Petrol,Automatic,Hatchback,white
+Suzuki,Alto,2015.0,11.0,0.0,800.0,Godagama,Used,Petrol,Manual,Liftback,black
+Nissan,Almera,2025.0,1.0,0.0,1000.0,Kohuwala,Brand New,Petrol,Automatic,Saloon,white
+Suzuki,Alto,2011.0,15.0,60231.0,1000.0,Ambalangoda,Used,Petrol,Manual,Hatchback,white
+Suzuki,Wagon R,2017.0,9.0,87000.0,1500.0,Boralesgamuwa,Used,Hybrid,Automatic,Liftback,black
+Suzuki,Swift,2018.0,8.0,83000.0,1240.0,Ratmalana,Used,Hybrid,Automatic,Hatchback,red
+Renault,KWID,2018.0,8.0,0.0,1300.0,Mamaduwa,Used,Petrol,Automatic,Hatchback,other
+Toyota,Aqua,2013.0,13.0,132000.0,1500.0,Anuradhapura,Used,Hybrid,Automatic,Saloon,white
+Toyota,Premio,2019.0,7.0,113000.0,1500.0,Kollupitiya (Colombo 03),Used,Petrol,Automatic,,white
+Toyota,Vitz,2007.0,19.0,188200.0,1000.0,Ratmalana,Used,Petrol,Automatic,Hatchback,blue
+Suzuki,Wagon R,2025.0,1.0,1300.0,650.0,Yakkala,Reconditioned,Petrol,Automatic,Hatchback,white
+KIA,Picanto,2016.0,10.0,45000.0,660.0,Boralesgamuwa,Used,Petrol,Manual,Hatchback,gray
+Toyota,Passo,2017.0,9.0,71000.0,760.0,Kegalle,Used,Petrol,Automatic,Hatchback,blue
+Nissan,HP11,2000.0,26.0,345000.0,2000.0,Narahenpita (Colombo 05),Used,Petrol,Manual,Sedan,black
+BMW,3 Series,2011.0,15.0,120000.0,2000.0,Kadawatha,Used,Diesel,Automatic,Hatchback,white
+Honda,N WGN,2024.0,2.0,100.0,658.0,Negombo,Brand New,Petrol,Automatic,Hatchback,black
+Suzuki,Spacia,2023.0,3.0,6600.0,660.0,Kottawa,Brand New,Petrol,Automatic,Hatchback,yellow
+Toyota,Aqua,2016.0,10.0,0.0,1300.0,Hinatiyana Madawala,Used,Petrol,Automatic,Hatchback,pink
+Toyota,Vitz,2013.0,13.0,116680.0,990.0,Dekatana,Used,Petrol,Automatic,Hatchback,black
+Suzuki,Alto,2014.0,12.0,179000.0,800.0,Anuradhapura,Used,Petrol,Manual,Hatchback,blue
+Honda,Grace,2017.0,9.0,146000.0,1490.0,Nagoda,Used,Petrol,Automatic,Sedan,gray
+Toyota,Aqua,2013.0,13.0,140000.0,1500.0,Matara,Reconditioned,Petrol,Automatic,Hatchback,black
+Toyota,Vitz,2018.0,8.0,56000.0,1000.0,Kalmunai,Used,Hybrid,Automatic,Sedan,white
+Toyota,Prius,2013.0,13.0,140000.0,1798.0,Panadura,Used,Petrol,Automatic,Hatchback,silver
+Mitsubishi,Lancer,2002.0,24.0,200000.0,1300.0,Anuradhapura,Used,Petrol,Manual,Saloon,white
+Toyota,Yaris,2023.0,3.0,0.0,1000.0,Horana,Brand New,Petrol,Automatic,,black
+Suzuki,Wagon R,2024.0,2.0,3300.0,650.0,Kotahena (Colombo 13),Reconditioned,Petrol,Automatic,Hatchback,black
+Suzuki,Swift,2011.0,15.0,69800.0,1200.0,Nugegoda,Used,Petrol,Manual,Liftback,gray
+Toyota,Aqua,2012.0,14.0,160000.0,1490.0,Dehiwala,Used,Hybrid,Automatic,Hatchback,orange
+KIA,Picanto,2016.0,10.0,72000.0,1000.0,Athurugiriya,Brand New,Petrol,Automatic,Hatchback,red
+Suzuki,Alto,2015.0,11.0,0.0,800.0,Kesbewa,Used,Petrol,Manual,Hatchback,other
+Mazda,2,2019.0,7.0,40000.0,1500.0,Athurugiriya,Used,Petrol,Automatic,Sedan,black
