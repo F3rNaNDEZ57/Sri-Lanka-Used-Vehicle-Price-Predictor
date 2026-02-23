@@ -7,3 +7,6 @@ Thumbs.db
 .env
 *.joblib
 reports/figures/*.png
+
+data/processed/
+data/splits/
